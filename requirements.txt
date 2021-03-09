@@ -1,0 +1,4 @@
+Babel==2.9.0
+psycopg2==2.8.6
+pytz==2020.5
+tkcalendar==1.6.1
