@@ -1,0 +1,154 @@
+[
+  {
+    "id_siec": 1,
+    "nazwa": "Naramowice",
+    "telefon": "(61) 822 75 43",
+    "email": "hotel@naramowice.pl",
+    "kategoria": "",
+    "adres": "60-619 Poznań, Naramowicka 150"
+  },
+  {
+    "id_siec": 4,
+    "nazwa": "BELWEDER",
+    "telefon": "33 854-85-00",
+    "email": "hotel@ hotelbelweder.pl",
+    "kategoria": "*****",
+    "adres": "43-450 Ustroń, Zdrojowa 15"
+  },
+  {
+    "id_siec": 1,
+    "nazwa": "\"REZYDENT\"",
+    "telefon": "0 - 58 55 - 5",
+    "email": "rezerwacja@HotelRezydent.com.pl",
+    "kategoria": "*****",
+    "adres": "81-704 Sopot, Plac Konstytucji III Maja 3"
+  },
+  {
+    "id_siec": 4,
+    "nazwa": "\"SOFITEL GRAND SOPOT\"",
+    "telefon": "0 - 58 520 -",
+    "email": "sof.grand.sopot@orbis.pl",
+    "kategoria": "*****",
+    "adres": "81-718 Sopot, Powstańców Warszawy 12/14"
+  },
+  {
+    "id_siec": 4,
+    "nazwa": "MONOPOL",
+    "telefon": "32 782-82-82",
+    "email": "monopol@hotel.com.pl",
+    "kategoria": "*****",
+    "adres": "40-012 Katowice, Dworcowa 5/7"
+  },
+  {
+    "id_siec": 3,
+    "nazwa": "CROWN PIAST HOTEL",
+    "telefon": "(0 12) 636-46-6",
+    "email": "gm@hotelpiast.pl",
+    "kategoria": "*****",
+    "adres": "31-342 Kraków, ul. Radzikowskiego 109"
+  },
+  {
+    "id_siec": 3,
+    "nazwa": "\"DWÓR OLIWSKI\"",
+    "telefon": "0 - 58 554 -",
+    "email": "info@dwor-oliwski.com.pl",
+    "kategoria": "*****",
+    "adres": "80-328 Gdańsk, Bytowska 4"
+  },
+  {
+    "id_siec": 4,
+    "nazwa": "\"PODEWILS\"",
+    "telefon": "0 - 58 300 -",
+    "email": "gdansk@podewils-hotel.pl",
+    "kategoria": "*****",
+    "adres": "80-755 Gdańsk, Szafarnia 2-3"
+  },
+  {
+    "id_siec": 2,
+    "nazwa": "\"SHERATON Sopot Hotel Conference Center & Spa\"",
+    "telefon": "0-58 767 - 10",
+    "email": "andrea.wrba@sheraton.com",
+    "kategoria": "*****",
+    "adres": "81-718 Sopot, Powstańców Warszawy 10"
+  },
+  {
+    "id_siec": 1,
+    "nazwa": "\"RADISSON BLU HOTEL\"",
+    "telefon": "0-58 325-44-44",
+    "email": "info.gdansk@radissonblu.com",
+    "kategoria": "*****",
+    "adres": "80-828 Gdańsk, Długi Targ 19/Powroźnicza"
+  },
+  {
+    "id_siec": 3,
+    "nazwa": "\"HILTON\"",
+    "telefon": "0-58 77-87-10",
+    "email": "GDNHG_RES@hilton.pl",
+    "kategoria": "*****",
+    "adres": "80-838 Gdańsk, Targ Rybny 1"
+  },
+  {
+    "id_siec": 4,
+    "nazwa": "GRÓDEK",
+    "telefon": "(0 12)431-90-30",
+    "email": "grodek@donimirski.com",
+    "kategoria": "*****",
+    "adres": "31-028 Kraków, ul. Na Gródku 4"
+  },
+  {
+    "id_siec": 2,
+    "nazwa": "CITY PARK HOTEL & RESIDENCE",
+    "telefon": "612 218 400",
+    "email": "residence@citypark.com.pl",
+    "kategoria": "*****",
+    "adres": "61-751 Poznań, Wyspiańskiego 26a"
+  },
+  {
+    "id_siec": 2,
+    "nazwa": "THE WESTIN WARSAW",
+    "telefon": "224 508 000",
+    "email": "warsaw@westin.com",
+    "kategoria": "*****",
+    "adres": "00-854 Warszawa, Al. Jana Pawła ii 21"
+  },
+  {
+    "id_siec": 2,
+    "nazwa": "BLOW UP HALL5050",
+    "telefon": "61-657 99 80",
+    "email": "blowup@blowUPhall5050.com",
+    "kategoria": "*****",
+    "adres": "61-891 Poznań, Kościuszki 42"
+  },
+  {
+    "id_siec": 3,
+    "nazwa": "PAŁAC SULISŁAW HOTEL & SPA",
+    "telefon": "509842741",
+    "email": "biuro@sulislaw.pl",
+    "kategoria": "*****",
+    "adres": "49-200 Sulisław, 24"
+  },
+  {
+    "id_siec": 2,
+    "nazwa": "GRAPE",
+    "telefon": "717360400",
+    "email": "biuro@grape.hotel.pl",
+    "kategoria": "*****",
+    "adres": "51-616 Wrocław, PARKOWA 8"
+  },
+  {
+    "id_siec": 1,
+    "nazwa": "MANOR HOUSE PAŁAC ODROWĄŻÓW",
+    "telefon": "48 628 70 61",
+    "email": "chlewiska@manorhouse.pl",
+    "kategoria": "*****",
+    "adres": "26-510 Chlewiska, Czachowskiego 56"
+  },
+  {
+    "id_siec": 1,
+    "nazwa": "ALTER",
+    "telefon": "81 516 90 90",
+    "email": "recepcja@hotelalter.pl",
+    "kategoria": "*****",
+    "adres": "20-112 Lublin, grodzka 30"
+  }
+]

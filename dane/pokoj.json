@@ -1,0 +1,1332 @@
+[
+  {
+    "id_typ": 4,
+    "pietro": 1,
+    "numer": 99,
+    "liczba_miejsc": 5,
+    "opis": ""
+  },
+  {
+    "id_typ": 1,
+    "pietro": 0,
+    "numer": 100,
+    "liczba_miejsc": 1,
+    "opis": "dla biznesmenów (o zmiennej funkcji wyposażeniowej)"
+  },
+  {
+    "id_typ": 2,
+    "pietro": 3,
+    "numer": 35,
+    "liczba_miejsc": 3,
+    "opis": "dla osób niepełnosprawnych"
+  },
+  {
+    "id_typ": 1,
+    "pietro": 0,
+    "numer": 36,
+    "liczba_miejsc": 3,
+    "opis": "dla biznesmenów (o zmiennej funkcji wyposażeniowej)"
+  },
+  {
+    "id_typ": 4,
+    "pietro": 0,
+    "numer": 47,
+    "liczba_miejsc": 1,
+    "opis": ""
+  },
+  {
+    "id_typ": 4,
+    "pietro": 1,
+    "numer": 42,
+    "liczba_miejsc": 3,
+    "opis": ""
+  },
+  {
+    "id_typ": 4,
+    "pietro": 0,
+    "numer": 61,
+    "liczba_miejsc": 4,
+    "opis": ""
+  },
+  {
+    "id_typ": 2,
+    "pietro": 0,
+    "numer": 1,
+    "liczba_miejsc": 3,
+    "opis": "dla osób niepełnosprawnych"
+  },
+  {
+    "id_typ": 1,
+    "pietro": 2,
+    "numer": 22,
+    "liczba_miejsc": 4,
+    "opis": "dla osób niepełnosprawnych"
+  },
+  {
+    "id_typ": 6,
+    "pietro": 2,
+    "numer": 27,
+    "liczba_miejsc": 3,
+    "opis": "dla osób niepełnosprawnych"
+  },
+  {
+    "id_typ": 9,
+    "pietro": 2,
+    "numer": 32,
+    "liczba_miejsc": 3,
+    "opis": ""
+  },
+  {
+    "id_typ": 10,
+    "pietro": 0,
+    "numer": 21,
+    "liczba_miejsc": 2,
+    "opis": ""
+  },
+  {
+    "id_typ": 7,
+    "pietro": 1,
+    "numer": 90,
+    "liczba_miejsc": 1,
+    "opis": ""
+  },
+  {
+    "id_typ": 9,
+    "pietro": 3,
+    "numer": 91,
+    "liczba_miejsc": 5,
+    "opis": ""
+  },
+  {
+    "id_typ": 8,
+    "pietro": 3,
+    "numer": 23,
+    "liczba_miejsc": 1,
+    "opis": ""
+  },
+  {
+    "id_typ": 11,
+    "pietro": 0,
+    "numer": 24,
+    "liczba_miejsc": 2,
+    "opis": ""
+  },
+  {
+    "id_typ": 7,
+    "pietro": 1,
+    "numer": 38,
+    "liczba_miejsc": 4,
+    "opis": ""
+  },
+  {
+    "id_typ": 11,
+    "pietro": 0,
+    "numer": 17,
+    "liczba_miejsc": 2,
+    "opis": ""
+  },
+  {
+    "id_typ": 12,
+    "pietro": 0,
+    "numer": 52,
+    "liczba_miejsc": 2,
+    "opis": ""
+  },
+  {
+    "id_typ": 8,
+    "pietro": 2,
+    "numer": 54,
+    "liczba_miejsc": 3,
+    "opis": ""
+  },
+  {
+    "id_typ": 15,
+    "pietro": 1,
+    "numer": 92,
+    "liczba_miejsc": 3,
+    "opis": ""
+  },
+  {
+    "id_typ": 14,
+    "pietro": 3,
+    "numer": 23,
+    "liczba_miejsc": 5,
+    "opis": ""
+  },
+  {
+    "id_typ": 18,
+    "pietro": 2,
+    "numer": 10,
+    "liczba_miejsc": 2,
+    "opis": ""
+  },
+  {
+    "id_typ": 15,
+    "pietro": 1,
+    "numer": 75,
+    "liczba_miejsc": 3,
+    "opis": ""
+  },
+  {
+    "id_typ": 18,
+    "pietro": 1,
+    "numer": 93,
+    "liczba_miejsc": 4,
+    "opis": ""
+  },
+  {
+    "id_typ": 16,
+    "pietro": 3,
+    "numer": 45,
+    "liczba_miejsc": 4,
+    "opis": ""
+  },
+  {
+    "id_typ": 17,
+    "pietro": 0,
+    "numer": 29,
+    "liczba_miejsc": 3,
+    "opis": ""
+  },
+  {
+    "id_typ": 14,
+    "pietro": 0,
+    "numer": 30,
+    "liczba_miejsc": 3,
+    "opis": ""
+  },
+  {
+    "id_typ": 14,
+    "pietro": 2,
+    "numer": 96,
+    "liczba_miejsc": 1,
+    "opis": ""
+  },
+  {
+    "id_typ": 13,
+    "pietro": 2,
+    "numer": 42,
+    "liczba_miejsc": 1,
+    "opis": ""
+  },
+  {
+    "id_typ": 23,
+    "pietro": 0,
+    "numer": 38,
+    "liczba_miejsc": 4,
+    "opis": ""
+  },
+  {
+    "id_typ": 21,
+    "pietro": 0,
+    "numer": 73,
+    "liczba_miejsc": 1,
+    "opis": ""
+  },
+  {
+    "id_typ": 19,
+    "pietro": 2,
+    "numer": 65,
+    "liczba_miejsc": 3,
+    "opis": "dla osób niepełnosprawnych"
+  },
+  {
+    "id_typ": 20,
+    "pietro": 1,
+    "numer": 57,
+    "liczba_miejsc": 3,
+    "opis": ""
+  },
+  {
+    "id_typ": 23,
+    "pietro": 2,
+    "numer": 18,
+    "liczba_miejsc": 2,
+    "opis": ""
+  },
+  {
+    "id_typ": 21,
+    "pietro": 2,
+    "numer": 21,
+    "liczba_miejsc": 5,
+    "opis": ""
+  },
+  {
+    "id_typ": 20,
+    "pietro": 1,
+    "numer": 5,
+    "liczba_miejsc": 4,
+    "opis": ""
+  },
+  {
+    "id_typ": 22,
+    "pietro": 0,
+    "numer": 15,
+    "liczba_miejsc": 5,
+    "opis": ""
+  },
+  {
+    "id_typ": 20,
+    "pietro": 2,
+    "numer": 90,
+    "liczba_miejsc": 4,
+    "opis": ""
+  },
+  {
+    "id_typ": 22,
+    "pietro": 1,
+    "numer": 88,
+    "liczba_miejsc": 3,
+    "opis": ""
+  },
+  {
+    "id_typ": 28,
+    "pietro": 2,
+    "numer": 84,
+    "liczba_miejsc": 3,
+    "opis": ""
+  },
+  {
+    "id_typ": 25,
+    "pietro": 3,
+    "numer": 73,
+    "liczba_miejsc": 5,
+    "opis": ""
+  },
+  {
+    "id_typ": 25,
+    "pietro": 2,
+    "numer": 67,
+    "liczba_miejsc": 2,
+    "opis": ""
+  },
+  {
+    "id_typ": 29,
+    "pietro": 3,
+    "numer": 23,
+    "liczba_miejsc": 4,
+    "opis": ""
+  },
+  {
+    "id_typ": 28,
+    "pietro": 2,
+    "numer": 59,
+    "liczba_miejsc": 2,
+    "opis": ""
+  },
+  {
+    "id_typ": 26,
+    "pietro": 1,
+    "numer": 3,
+    "liczba_miejsc": 5,
+    "opis": ""
+  },
+  {
+    "id_typ": 29,
+    "pietro": 2,
+    "numer": 29,
+    "liczba_miejsc": 5,
+    "opis": ""
+  },
+  {
+    "id_typ": 25,
+    "pietro": 3,
+    "numer": 34,
+    "liczba_miejsc": 4,
+    "opis": ""
+  },
+  {
+    "id_typ": 26,
+    "pietro": 0,
+    "numer": 11,
+    "liczba_miejsc": 2,
+    "opis": ""
+  },
+  {
+    "id_typ": 27,
+    "pietro": 2,
+    "numer": 57,
+    "liczba_miejsc": 2,
+    "opis": ""
+  },
+  {
+    "id_typ": 36,
+    "pietro": 3,
+    "numer": 2,
+    "liczba_miejsc": 2,
+    "opis": ""
+  },
+  {
+    "id_typ": 36,
+    "pietro": 3,
+    "numer": 94,
+    "liczba_miejsc": 1,
+    "opis": ""
+  },
+  {
+    "id_typ": 31,
+    "pietro": 0,
+    "numer": 48,
+    "liczba_miejsc": 1,
+    "opis": ""
+  },
+  {
+    "id_typ": 33,
+    "pietro": 2,
+    "numer": 23,
+    "liczba_miejsc": 4,
+    "opis": ""
+  },
+  {
+    "id_typ": 31,
+    "pietro": 3,
+    "numer": 83,
+    "liczba_miejsc": 3,
+    "opis": ""
+  },
+  {
+    "id_typ": 31,
+    "pietro": 2,
+    "numer": 30,
+    "liczba_miejsc": 3,
+    "opis": ""
+  },
+  {
+    "id_typ": 35,
+    "pietro": 0,
+    "numer": 34,
+    "liczba_miejsc": 1,
+    "opis": ""
+  },
+  {
+    "id_typ": 35,
+    "pietro": 0,
+    "numer": 96,
+    "liczba_miejsc": 3,
+    "opis": ""
+  },
+  {
+    "id_typ": 31,
+    "pietro": 0,
+    "numer": 74,
+    "liczba_miejsc": 5,
+    "opis": ""
+  },
+  {
+    "id_typ": 33,
+    "pietro": 2,
+    "numer": 27,
+    "liczba_miejsc": 5,
+    "opis": ""
+  },
+  {
+    "id_typ": 41,
+    "pietro": 3,
+    "numer": 12,
+    "liczba_miejsc": 1,
+    "opis": ""
+  },
+  {
+    "id_typ": 37,
+    "pietro": 3,
+    "numer": 24,
+    "liczba_miejsc": 5,
+    "opis": ""
+  },
+  {
+    "id_typ": 42,
+    "pietro": 0,
+    "numer": 57,
+    "liczba_miejsc": 5,
+    "opis": ""
+  },
+  {
+    "id_typ": 38,
+    "pietro": 1,
+    "numer": 25,
+    "liczba_miejsc": 4,
+    "opis": "dla osób niepełnosprawnych"
+  },
+  {
+    "id_typ": 42,
+    "pietro": 2,
+    "numer": 53,
+    "liczba_miejsc": 1,
+    "opis": ""
+  },
+  {
+    "id_typ": 41,
+    "pietro": 3,
+    "numer": 45,
+    "liczba_miejsc": 2,
+    "opis": ""
+  },
+  {
+    "id_typ": 40,
+    "pietro": 2,
+    "numer": 8,
+    "liczba_miejsc": 3,
+    "opis": ""
+  },
+  {
+    "id_typ": 37,
+    "pietro": 1,
+    "numer": 19,
+    "liczba_miejsc": 2,
+    "opis": ""
+  },
+  {
+    "id_typ": 39,
+    "pietro": 1,
+    "numer": 59,
+    "liczba_miejsc": 5,
+    "opis": ""
+  },
+  {
+    "id_typ": 40,
+    "pietro": 1,
+    "numer": 47,
+    "liczba_miejsc": 3,
+    "opis": ""
+  },
+  {
+    "id_typ": 46,
+    "pietro": 3,
+    "numer": 4,
+    "liczba_miejsc": 5,
+    "opis": ""
+  },
+  {
+    "id_typ": 45,
+    "pietro": 2,
+    "numer": 41,
+    "liczba_miejsc": 4,
+    "opis": ""
+  },
+  {
+    "id_typ": 47,
+    "pietro": 3,
+    "numer": 36,
+    "liczba_miejsc": 5,
+    "opis": ""
+  },
+  {
+    "id_typ": 43,
+    "pietro": 0,
+    "numer": 25,
+    "liczba_miejsc": 1,
+    "opis": ""
+  },
+  {
+    "id_typ": 48,
+    "pietro": 3,
+    "numer": 23,
+    "liczba_miejsc": 2,
+    "opis": ""
+  },
+  {
+    "id_typ": 47,
+    "pietro": 2,
+    "numer": 90,
+    "liczba_miejsc": 1,
+    "opis": ""
+  },
+  {
+    "id_typ": 48,
+    "pietro": 1,
+    "numer": 40,
+    "liczba_miejsc": 5,
+    "opis": ""
+  },
+  {
+    "id_typ": 47,
+    "pietro": 2,
+    "numer": 87,
+    "liczba_miejsc": 5,
+    "opis": ""
+  },
+  {
+    "id_typ": 43,
+    "pietro": 3,
+    "numer": 85,
+    "liczba_miejsc": 3,
+    "opis": ""
+  },
+  {
+    "id_typ": 46,
+    "pietro": 0,
+    "numer": 76,
+    "liczba_miejsc": 2,
+    "opis": ""
+  },
+  {
+    "id_typ": 49,
+    "pietro": 3,
+    "numer": 75,
+    "liczba_miejsc": 4,
+    "opis": ""
+  },
+  {
+    "id_typ": 54,
+    "pietro": 2,
+    "numer": 9,
+    "liczba_miejsc": 1,
+    "opis": ""
+  },
+  {
+    "id_typ": 50,
+    "pietro": 3,
+    "numer": 88,
+    "liczba_miejsc": 1,
+    "opis": ""
+  },
+  {
+    "id_typ": 51,
+    "pietro": 3,
+    "numer": 49,
+    "liczba_miejsc": 5,
+    "opis": ""
+  },
+  {
+    "id_typ": 49,
+    "pietro": 2,
+    "numer": 5,
+    "liczba_miejsc": 2,
+    "opis": ""
+  },
+  {
+    "id_typ": 51,
+    "pietro": 1,
+    "numer": 61,
+    "liczba_miejsc": 3,
+    "opis": ""
+  },
+  {
+    "id_typ": 52,
+    "pietro": 3,
+    "numer": 100,
+    "liczba_miejsc": 2,
+    "opis": ""
+  },
+  {
+    "id_typ": 51,
+    "pietro": 0,
+    "numer": 29,
+    "liczba_miejsc": 1,
+    "opis": ""
+  },
+  {
+    "id_typ": 49,
+    "pietro": 1,
+    "numer": 96,
+    "liczba_miejsc": 3,
+    "opis": ""
+  },
+  {
+    "id_typ": 49,
+    "pietro": 2,
+    "numer": 67,
+    "liczba_miejsc": 3,
+    "opis": ""
+  },
+  {
+    "id_typ": 56,
+    "pietro": 2,
+    "numer": 82,
+    "liczba_miejsc": 1,
+    "opis": ""
+  },
+  {
+    "id_typ": 60,
+    "pietro": 0,
+    "numer": 40,
+    "liczba_miejsc": 2,
+    "opis": ""
+  },
+  {
+    "id_typ": 60,
+    "pietro": 2,
+    "numer": 24,
+    "liczba_miejsc": 5,
+    "opis": ""
+  },
+  {
+    "id_typ": 55,
+    "pietro": 2,
+    "numer": 66,
+    "liczba_miejsc": 5,
+    "opis": ""
+  },
+  {
+    "id_typ": 56,
+    "pietro": 2,
+    "numer": 23,
+    "liczba_miejsc": 1,
+    "opis": ""
+  },
+  {
+    "id_typ": 55,
+    "pietro": 2,
+    "numer": 62,
+    "liczba_miejsc": 3,
+    "opis": ""
+  },
+  {
+    "id_typ": 56,
+    "pietro": 0,
+    "numer": 100,
+    "liczba_miejsc": 4,
+    "opis": ""
+  },
+  {
+    "id_typ": 58,
+    "pietro": 0,
+    "numer": 3,
+    "liczba_miejsc": 1,
+    "opis": ""
+  },
+  {
+    "id_typ": 56,
+    "pietro": 2,
+    "numer": 61,
+    "liczba_miejsc": 1,
+    "opis": ""
+  },
+  {
+    "id_typ": 56,
+    "pietro": 2,
+    "numer": 20,
+    "liczba_miejsc": 2,
+    "opis": ""
+  },
+  {
+    "id_typ": 65,
+    "pietro": 2,
+    "numer": 99,
+    "liczba_miejsc": 2,
+    "opis": ""
+  },
+  {
+    "id_typ": 64,
+    "pietro": 3,
+    "numer": 72,
+    "liczba_miejsc": 1,
+    "opis": ""
+  },
+  {
+    "id_typ": 65,
+    "pietro": 2,
+    "numer": 36,
+    "liczba_miejsc": 2,
+    "opis": ""
+  },
+  {
+    "id_typ": 64,
+    "pietro": 2,
+    "numer": 3,
+    "liczba_miejsc": 1,
+    "opis": ""
+  },
+  {
+    "id_typ": 63,
+    "pietro": 1,
+    "numer": 25,
+    "liczba_miejsc": 5,
+    "opis": ""
+  },
+  {
+    "id_typ": 65,
+    "pietro": 1,
+    "numer": 45,
+    "liczba_miejsc": 2,
+    "opis": ""
+  },
+  {
+    "id_typ": 65,
+    "pietro": 1,
+    "numer": 33,
+    "liczba_miejsc": 1,
+    "opis": ""
+  },
+  {
+    "id_typ": 66,
+    "pietro": 2,
+    "numer": 63,
+    "liczba_miejsc": 4,
+    "opis": ""
+  },
+  {
+    "id_typ": 64,
+    "pietro": 0,
+    "numer": 96,
+    "liczba_miejsc": 3,
+    "opis": ""
+  },
+  {
+    "id_typ": 65,
+    "pietro": 1,
+    "numer": 71,
+    "liczba_miejsc": 3,
+    "opis": ""
+  },
+  {
+    "id_typ": 71,
+    "pietro": 0,
+    "numer": 72,
+    "liczba_miejsc": 5,
+    "opis": ""
+  },
+  {
+    "id_typ": 71,
+    "pietro": 0,
+    "numer": 7,
+    "liczba_miejsc": 2,
+    "opis": ""
+  },
+  {
+    "id_typ": 69,
+    "pietro": 3,
+    "numer": 30,
+    "liczba_miejsc": 3,
+    "opis": ""
+  },
+  {
+    "id_typ": 71,
+    "pietro": 0,
+    "numer": 60,
+    "liczba_miejsc": 3,
+    "opis": ""
+  },
+  {
+    "id_typ": 69,
+    "pietro": 0,
+    "numer": 79,
+    "liczba_miejsc": 2,
+    "opis": ""
+  },
+  {
+    "id_typ": 68,
+    "pietro": 3,
+    "numer": 19,
+    "liczba_miejsc": 4,
+    "opis": ""
+  },
+  {
+    "id_typ": 72,
+    "pietro": 3,
+    "numer": 16,
+    "liczba_miejsc": 4,
+    "opis": ""
+  },
+  {
+    "id_typ": 70,
+    "pietro": 0,
+    "numer": 29,
+    "liczba_miejsc": 2,
+    "opis": ""
+  },
+  {
+    "id_typ": 68,
+    "pietro": 0,
+    "numer": 69,
+    "liczba_miejsc": 3,
+    "opis": ""
+  },
+  {
+    "id_typ": 72,
+    "pietro": 3,
+    "numer": 46,
+    "liczba_miejsc": 5,
+    "opis": ""
+  },
+  {
+    "id_typ": 77,
+    "pietro": 0,
+    "numer": 85,
+    "liczba_miejsc": 2,
+    "opis": ""
+  },
+  {
+    "id_typ": 77,
+    "pietro": 3,
+    "numer": 82,
+    "liczba_miejsc": 5,
+    "opis": ""
+  },
+  {
+    "id_typ": 77,
+    "pietro": 1,
+    "numer": 90,
+    "liczba_miejsc": 1,
+    "opis": ""
+  },
+  {
+    "id_typ": 78,
+    "pietro": 2,
+    "numer": 100,
+    "liczba_miejsc": 2,
+    "opis": ""
+  },
+  {
+    "id_typ": 73,
+    "pietro": 1,
+    "numer": 7,
+    "liczba_miejsc": 2,
+    "opis": ""
+  },
+  {
+    "id_typ": 76,
+    "pietro": 3,
+    "numer": 52,
+    "liczba_miejsc": 2,
+    "opis": ""
+  },
+  {
+    "id_typ": 77,
+    "pietro": 1,
+    "numer": 27,
+    "liczba_miejsc": 3,
+    "opis": ""
+  },
+  {
+    "id_typ": 73,
+    "pietro": 2,
+    "numer": 37,
+    "liczba_miejsc": 1,
+    "opis": ""
+  },
+  {
+    "id_typ": 73,
+    "pietro": 0,
+    "numer": 26,
+    "liczba_miejsc": 5,
+    "opis": ""
+  },
+  {
+    "id_typ": 75,
+    "pietro": 3,
+    "numer": 69,
+    "liczba_miejsc": 3,
+    "opis": ""
+  },
+  {
+    "id_typ": 83,
+    "pietro": 1,
+    "numer": 18,
+    "liczba_miejsc": 3,
+    "opis": ""
+  },
+  {
+    "id_typ": 83,
+    "pietro": 2,
+    "numer": 31,
+    "liczba_miejsc": 2,
+    "opis": ""
+  },
+  {
+    "id_typ": 84,
+    "pietro": 0,
+    "numer": 50,
+    "liczba_miejsc": 5,
+    "opis": ""
+  },
+  {
+    "id_typ": 80,
+    "pietro": 2,
+    "numer": 63,
+    "liczba_miejsc": 5,
+    "opis": ""
+  },
+  {
+    "id_typ": 80,
+    "pietro": 1,
+    "numer": 93,
+    "liczba_miejsc": 5,
+    "opis": ""
+  },
+  {
+    "id_typ": 84,
+    "pietro": 0,
+    "numer": 56,
+    "liczba_miejsc": 1,
+    "opis": ""
+  },
+  {
+    "id_typ": 83,
+    "pietro": 1,
+    "numer": 46,
+    "liczba_miejsc": 5,
+    "opis": ""
+  },
+  {
+    "id_typ": 80,
+    "pietro": 3,
+    "numer": 54,
+    "liczba_miejsc": 2,
+    "opis": ""
+  },
+  {
+    "id_typ": 84,
+    "pietro": 2,
+    "numer": 65,
+    "liczba_miejsc": 4,
+    "opis": ""
+  },
+  {
+    "id_typ": 84,
+    "pietro": 1,
+    "numer": 21,
+    "liczba_miejsc": 1,
+    "opis": ""
+  },
+  {
+    "id_typ": 86,
+    "pietro": 3,
+    "numer": 62,
+    "liczba_miejsc": 3,
+    "opis": ""
+  },
+  {
+    "id_typ": 90,
+    "pietro": 1,
+    "numer": 57,
+    "liczba_miejsc": 2,
+    "opis": ""
+  },
+  {
+    "id_typ": 86,
+    "pietro": 3,
+    "numer": 70,
+    "liczba_miejsc": 4,
+    "opis": ""
+  },
+  {
+    "id_typ": 90,
+    "pietro": 0,
+    "numer": 23,
+    "liczba_miejsc": 2,
+    "opis": ""
+  },
+  {
+    "id_typ": 87,
+    "pietro": 1,
+    "numer": 14,
+    "liczba_miejsc": 5,
+    "opis": ""
+  },
+  {
+    "id_typ": 86,
+    "pietro": 2,
+    "numer": 19,
+    "liczba_miejsc": 4,
+    "opis": ""
+  },
+  {
+    "id_typ": 85,
+    "pietro": 2,
+    "numer": 42,
+    "liczba_miejsc": 4,
+    "opis": ""
+  },
+  {
+    "id_typ": 89,
+    "pietro": 0,
+    "numer": 98,
+    "liczba_miejsc": 5,
+    "opis": ""
+  },
+  {
+    "id_typ": 87,
+    "pietro": 2,
+    "numer": 4,
+    "liczba_miejsc": 4,
+    "opis": ""
+  },
+  {
+    "id_typ": 85,
+    "pietro": 2,
+    "numer": 59,
+    "liczba_miejsc": 3,
+    "opis": ""
+  },
+  {
+    "id_typ": 96,
+    "pietro": 0,
+    "numer": 17,
+    "liczba_miejsc": 2,
+    "opis": ""
+  },
+  {
+    "id_typ": 93,
+    "pietro": 2,
+    "numer": 27,
+    "liczba_miejsc": 4,
+    "opis": ""
+  },
+  {
+    "id_typ": 96,
+    "pietro": 2,
+    "numer": 44,
+    "liczba_miejsc": 1,
+    "opis": ""
+  },
+  {
+    "id_typ": 94,
+    "pietro": 3,
+    "numer": 71,
+    "liczba_miejsc": 2,
+    "opis": ""
+  },
+  {
+    "id_typ": 91,
+    "pietro": 1,
+    "numer": 38,
+    "liczba_miejsc": 4,
+    "opis": ""
+  },
+  {
+    "id_typ": 93,
+    "pietro": 0,
+    "numer": 18,
+    "liczba_miejsc": 5,
+    "opis": ""
+  },
+  {
+    "id_typ": 92,
+    "pietro": 2,
+    "numer": 21,
+    "liczba_miejsc": 3,
+    "opis": ""
+  },
+  {
+    "id_typ": 95,
+    "pietro": 3,
+    "numer": 81,
+    "liczba_miejsc": 2,
+    "opis": ""
+  },
+  {
+    "id_typ": 93,
+    "pietro": 3,
+    "numer": 56,
+    "liczba_miejsc": 4,
+    "opis": ""
+  },
+  {
+    "id_typ": 94,
+    "pietro": 1,
+    "numer": 2,
+    "liczba_miejsc": 3,
+    "opis": ""
+  },
+  {
+    "id_typ": 97,
+    "pietro": 3,
+    "numer": 39,
+    "liczba_miejsc": 5,
+    "opis": ""
+  },
+  {
+    "id_typ": 102,
+    "pietro": 1,
+    "numer": 75,
+    "liczba_miejsc": 4,
+    "opis": ""
+  },
+  {
+    "id_typ": 100,
+    "pietro": 0,
+    "numer": 77,
+    "liczba_miejsc": 4,
+    "opis": ""
+  },
+  {
+    "id_typ": 99,
+    "pietro": 0,
+    "numer": 5,
+    "liczba_miejsc": 2,
+    "opis": ""
+  },
+  {
+    "id_typ": 98,
+    "pietro": 3,
+    "numer": 51,
+    "liczba_miejsc": 2,
+    "opis": ""
+  },
+  {
+    "id_typ": 101,
+    "pietro": 0,
+    "numer": 31,
+    "liczba_miejsc": 4,
+    "opis": ""
+  },
+  {
+    "id_typ": 100,
+    "pietro": 0,
+    "numer": 65,
+    "liczba_miejsc": 4,
+    "opis": ""
+  },
+  {
+    "id_typ": 98,
+    "pietro": 1,
+    "numer": 43,
+    "liczba_miejsc": 5,
+    "opis": ""
+  },
+  {
+    "id_typ": 99,
+    "pietro": 1,
+    "numer": 96,
+    "liczba_miejsc": 4,
+    "opis": ""
+  },
+  {
+    "id_typ": 102,
+    "pietro": 2,
+    "numer": 58,
+    "liczba_miejsc": 1,
+    "opis": ""
+  },
+  {
+    "id_typ": 106,
+    "pietro": 2,
+    "numer": 70,
+    "liczba_miejsc": 1,
+    "opis": ""
+  },
+  {
+    "id_typ": 105,
+    "pietro": 1,
+    "numer": 46,
+    "liczba_miejsc": 3,
+    "opis": ""
+  },
+  {
+    "id_typ": 103,
+    "pietro": 3,
+    "numer": 94,
+    "liczba_miejsc": 1,
+    "opis": ""
+  },
+  {
+    "id_typ": 103,
+    "pietro": 2,
+    "numer": 21,
+    "liczba_miejsc": 4,
+    "opis": ""
+  },
+  {
+    "id_typ": 107,
+    "pietro": 1,
+    "numer": 81,
+    "liczba_miejsc": 2,
+    "opis": ""
+  },
+  {
+    "id_typ": 104,
+    "pietro": 0,
+    "numer": 32,
+    "liczba_miejsc": 2,
+    "opis": ""
+  },
+  {
+    "id_typ": 107,
+    "pietro": 2,
+    "numer": 38,
+    "liczba_miejsc": 2,
+    "opis": ""
+  },
+  {
+    "id_typ": 104,
+    "pietro": 2,
+    "numer": 63,
+    "liczba_miejsc": 1,
+    "opis": ""
+  },
+  {
+    "id_typ": 106,
+    "pietro": 3,
+    "numer": 48,
+    "liczba_miejsc": 1,
+    "opis": ""
+  },
+  {
+    "id_typ": 103,
+    "pietro": 0,
+    "numer": 93,
+    "liczba_miejsc": 3,
+    "opis": ""
+  },
+  {
+    "id_typ": 111,
+    "pietro": 3,
+    "numer": 51,
+    "liczba_miejsc": 5,
+    "opis": ""
+  },
+  {
+    "id_typ": 114,
+    "pietro": 0,
+    "numer": 54,
+    "liczba_miejsc": 5,
+    "opis": "dla biznesmenów (o zmiennej funkcji wyposażeniowej)"
+  },
+  {
+    "id_typ": 114,
+    "pietro": 2,
+    "numer": 8,
+    "liczba_miejsc": 2,
+    "opis": "dla osób niepełnosprawnych"
+  },
+  {
+    "id_typ": 109,
+    "pietro": 2,
+    "numer": 89,
+    "liczba_miejsc": 1,
+    "opis": ""
+  },
+  {
+    "id_typ": 113,
+    "pietro": 0,
+    "numer": 17,
+    "liczba_miejsc": 5,
+    "opis": ""
+  },
+  {
+    "id_typ": 112,
+    "pietro": 2,
+    "numer": 98,
+    "liczba_miejsc": 2,
+    "opis": ""
+  },
+  {
+    "id_typ": 113,
+    "pietro": 2,
+    "numer": 3,
+    "liczba_miejsc": 4,
+    "opis": ""
+  },
+  {
+    "id_typ": 114,
+    "pietro": 0,
+    "numer": 50,
+    "liczba_miejsc": 2,
+    "opis": "dla osób niepełnosprawnych"
+  },
+  {
+    "id_typ": 109,
+    "pietro": 2,
+    "numer": 5,
+    "liczba_miejsc": 3,
+    "opis": ""
+  },
+  {
+    "id_typ": 109,
+    "pietro": 2,
+    "numer": 80,
+    "liczba_miejsc": 3,
+    "opis": ""
+  }
+]

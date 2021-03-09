@@ -1,0 +1,17 @@
+[
+    {
+      "opis": "Oczekuje na wpłatę"
+    },
+    {
+      "opis": "Przyjęta"
+    },
+    {
+      "opis": "Anulowana"
+    },
+    {
+      "opis": "Trwa"
+    },
+    {
+      "opis": "Zakończona"
+    }
+  ]

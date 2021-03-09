@@ -1,0 +1,2054 @@
+[
+  {
+    "id_typ": 1,
+    "cena": "92",
+    "okres_poczatek": "2021-01-01",
+    "okres_koniec": "2021-04-30"
+  },
+  {
+    "id_typ": 1,
+    "cena": "116",
+    "okres_poczatek": "2021-05-01",
+    "okres_koniec": "2021-09-30"
+  },
+  {
+    "id_typ": 1,
+    "cena": "94",
+    "okres_poczatek": "2021-10-01",
+    "okres_koniec": "2021-12-31"
+  },
+  {
+    "id_typ": 2,
+    "cena": "99",
+    "okres_poczatek": "2021-01-01",
+    "okres_koniec": "2021-04-30"
+  },
+  {
+    "id_typ": 2,
+    "cena": "112",
+    "okres_poczatek": "2021-05-01",
+    "okres_koniec": "2021-09-30"
+  },
+  {
+    "id_typ": 2,
+    "cena": "82",
+    "okres_poczatek": "2021-10-01",
+    "okres_koniec": "2021-12-31"
+  },
+  {
+    "id_typ": 3,
+    "cena": "97",
+    "okres_poczatek": "2021-01-01",
+    "okres_koniec": "2021-04-30"
+  },
+  {
+    "id_typ": 3,
+    "cena": "103",
+    "okres_poczatek": "2021-05-01",
+    "okres_koniec": "2021-09-30"
+  },
+  {
+    "id_typ": 3,
+    "cena": "97",
+    "okres_poczatek": "2021-10-01",
+    "okres_koniec": "2021-12-31"
+  },
+  {
+    "id_typ": 4,
+    "cena": "88",
+    "okres_poczatek": "2021-01-01",
+    "okres_koniec": "2021-04-30"
+  },
+  {
+    "id_typ": 4,
+    "cena": "102",
+    "okres_poczatek": "2021-05-01",
+    "okres_koniec": "2021-09-30"
+  },
+  {
+    "id_typ": 4,
+    "cena": "84",
+    "okres_poczatek": "2021-10-01",
+    "okres_koniec": "2021-12-31"
+  },
+  {
+    "id_typ": 5,
+    "cena": "79",
+    "okres_poczatek": "2021-01-01",
+    "okres_koniec": "2021-04-30"
+  },
+  {
+    "id_typ": 5,
+    "cena": "118",
+    "okres_poczatek": "2021-05-01",
+    "okres_koniec": "2021-09-30"
+  },
+  {
+    "id_typ": 5,
+    "cena": "108",
+    "okres_poczatek": "2021-10-01",
+    "okres_koniec": "2021-12-31"
+  },
+  {
+    "id_typ": 6,
+    "cena": "73",
+    "okres_poczatek": "2021-01-01",
+    "okres_koniec": "2021-04-30"
+  },
+  {
+    "id_typ": 6,
+    "cena": "112",
+    "okres_poczatek": "2021-05-01",
+    "okres_koniec": "2021-09-30"
+  },
+  {
+    "id_typ": 6,
+    "cena": "93",
+    "okres_poczatek": "2021-10-01",
+    "okres_koniec": "2021-12-31"
+  },
+  {
+    "id_typ": 7,
+    "cena": "82",
+    "okres_poczatek": "2021-01-01",
+    "okres_koniec": "2021-04-30"
+  },
+  {
+    "id_typ": 7,
+    "cena": "100",
+    "okres_poczatek": "2021-05-01",
+    "okres_koniec": "2021-09-30"
+  },
+  {
+    "id_typ": 7,
+    "cena": "87",
+    "okres_poczatek": "2021-10-01",
+    "okres_koniec": "2021-12-31"
+  },
+  {
+    "id_typ": 8,
+    "cena": "86",
+    "okres_poczatek": "2021-01-01",
+    "okres_koniec": "2021-04-30"
+  },
+  {
+    "id_typ": 8,
+    "cena": "102",
+    "okres_poczatek": "2021-05-01",
+    "okres_koniec": "2021-09-30"
+  },
+  {
+    "id_typ": 8,
+    "cena": "86",
+    "okres_poczatek": "2021-10-01",
+    "okres_koniec": "2021-12-31"
+  },
+  {
+    "id_typ": 9,
+    "cena": "78",
+    "okres_poczatek": "2021-01-01",
+    "okres_koniec": "2021-04-30"
+  },
+  {
+    "id_typ": 9,
+    "cena": "102",
+    "okres_poczatek": "2021-05-01",
+    "okres_koniec": "2021-09-30"
+  },
+  {
+    "id_typ": 9,
+    "cena": "84",
+    "okres_poczatek": "2021-10-01",
+    "okres_koniec": "2021-12-31"
+  },
+  {
+    "id_typ": 10,
+    "cena": "99",
+    "okres_poczatek": "2021-01-01",
+    "okres_koniec": "2021-04-30"
+  },
+  {
+    "id_typ": 10,
+    "cena": "128",
+    "okres_poczatek": "2021-05-01",
+    "okres_koniec": "2021-09-30"
+  },
+  {
+    "id_typ": 10,
+    "cena": "80",
+    "okres_poczatek": "2021-10-01",
+    "okres_koniec": "2021-12-31"
+  },
+  {
+    "id_typ": 11,
+    "cena": "70",
+    "okres_poczatek": "2021-01-01",
+    "okres_koniec": "2021-04-30"
+  },
+  {
+    "id_typ": 11,
+    "cena": "111",
+    "okres_poczatek": "2021-05-01",
+    "okres_koniec": "2021-09-30"
+  },
+  {
+    "id_typ": 11,
+    "cena": "110",
+    "okres_poczatek": "2021-10-01",
+    "okres_koniec": "2021-12-31"
+  },
+  {
+    "id_typ": 12,
+    "cena": "96",
+    "okres_poczatek": "2021-01-01",
+    "okres_koniec": "2021-04-30"
+  },
+  {
+    "id_typ": 12,
+    "cena": "116",
+    "okres_poczatek": "2021-05-01",
+    "okres_koniec": "2021-09-30"
+  },
+  {
+    "id_typ": 12,
+    "cena": "80",
+    "okres_poczatek": "2021-10-01",
+    "okres_koniec": "2021-12-31"
+  },
+  {
+    "id_typ": 13,
+    "cena": "80",
+    "okres_poczatek": "2021-01-01",
+    "okres_koniec": "2021-04-30"
+  },
+  {
+    "id_typ": 13,
+    "cena": "123",
+    "okres_poczatek": "2021-05-01",
+    "okres_koniec": "2021-09-30"
+  },
+  {
+    "id_typ": 13,
+    "cena": "81",
+    "okres_poczatek": "2021-10-01",
+    "okres_koniec": "2021-12-31"
+  },
+  {
+    "id_typ": 14,
+    "cena": "91",
+    "okres_poczatek": "2021-01-01",
+    "okres_koniec": "2021-04-30"
+  },
+  {
+    "id_typ": 14,
+    "cena": "109",
+    "okres_poczatek": "2021-05-01",
+    "okres_koniec": "2021-09-30"
+  },
+  {
+    "id_typ": 14,
+    "cena": "83",
+    "okres_poczatek": "2021-10-01",
+    "okres_koniec": "2021-12-31"
+  },
+  {
+    "id_typ": 15,
+    "cena": "83",
+    "okres_poczatek": "2021-01-01",
+    "okres_koniec": "2021-04-30"
+  },
+  {
+    "id_typ": 15,
+    "cena": "111",
+    "okres_poczatek": "2021-05-01",
+    "okres_koniec": "2021-09-30"
+  },
+  {
+    "id_typ": 15,
+    "cena": "100",
+    "okres_poczatek": "2021-10-01",
+    "okres_koniec": "2021-12-31"
+  },
+  {
+    "id_typ": 16,
+    "cena": "89",
+    "okres_poczatek": "2021-01-01",
+    "okres_koniec": "2021-04-30"
+  },
+  {
+    "id_typ": 16,
+    "cena": "121",
+    "okres_poczatek": "2021-05-01",
+    "okres_koniec": "2021-09-30"
+  },
+  {
+    "id_typ": 16,
+    "cena": "109",
+    "okres_poczatek": "2021-10-01",
+    "okres_koniec": "2021-12-31"
+  },
+  {
+    "id_typ": 17,
+    "cena": "81",
+    "okres_poczatek": "2021-01-01",
+    "okres_koniec": "2021-04-30"
+  },
+  {
+    "id_typ": 17,
+    "cena": "115",
+    "okres_poczatek": "2021-05-01",
+    "okres_koniec": "2021-09-30"
+  },
+  {
+    "id_typ": 17,
+    "cena": "95",
+    "okres_poczatek": "2021-10-01",
+    "okres_koniec": "2021-12-31"
+  },
+  {
+    "id_typ": 18,
+    "cena": "95",
+    "okres_poczatek": "2021-01-01",
+    "okres_koniec": "2021-04-30"
+  },
+  {
+    "id_typ": 18,
+    "cena": "119",
+    "okres_poczatek": "2021-05-01",
+    "okres_koniec": "2021-09-30"
+  },
+  {
+    "id_typ": 18,
+    "cena": "89",
+    "okres_poczatek": "2021-10-01",
+    "okres_koniec": "2021-12-31"
+  },
+  {
+    "id_typ": 19,
+    "cena": "86",
+    "okres_poczatek": "2021-01-01",
+    "okres_koniec": "2021-04-30"
+  },
+  {
+    "id_typ": 19,
+    "cena": "127",
+    "okres_poczatek": "2021-05-01",
+    "okres_koniec": "2021-09-30"
+  },
+  {
+    "id_typ": 19,
+    "cena": "85",
+    "okres_poczatek": "2021-10-01",
+    "okres_koniec": "2021-12-31"
+  },
+  {
+    "id_typ": 20,
+    "cena": "72",
+    "okres_poczatek": "2021-01-01",
+    "okres_koniec": "2021-04-30"
+  },
+  {
+    "id_typ": 20,
+    "cena": "123",
+    "okres_poczatek": "2021-05-01",
+    "okres_koniec": "2021-09-30"
+  },
+  {
+    "id_typ": 20,
+    "cena": "83",
+    "okres_poczatek": "2021-10-01",
+    "okres_koniec": "2021-12-31"
+  },
+  {
+    "id_typ": 21,
+    "cena": "100",
+    "okres_poczatek": "2021-01-01",
+    "okres_koniec": "2021-04-30"
+  },
+  {
+    "id_typ": 21,
+    "cena": "114",
+    "okres_poczatek": "2021-05-01",
+    "okres_koniec": "2021-09-30"
+  },
+  {
+    "id_typ": 21,
+    "cena": "89",
+    "okres_poczatek": "2021-10-01",
+    "okres_koniec": "2021-12-31"
+  },
+  {
+    "id_typ": 22,
+    "cena": "76",
+    "okres_poczatek": "2021-01-01",
+    "okres_koniec": "2021-04-30"
+  },
+  {
+    "id_typ": 22,
+    "cena": "102",
+    "okres_poczatek": "2021-05-01",
+    "okres_koniec": "2021-09-30"
+  },
+  {
+    "id_typ": 22,
+    "cena": "95",
+    "okres_poczatek": "2021-10-01",
+    "okres_koniec": "2021-12-31"
+  },
+  {
+    "id_typ": 23,
+    "cena": "86",
+    "okres_poczatek": "2021-01-01",
+    "okres_koniec": "2021-04-30"
+  },
+  {
+    "id_typ": 23,
+    "cena": "115",
+    "okres_poczatek": "2021-05-01",
+    "okres_koniec": "2021-09-30"
+  },
+  {
+    "id_typ": 23,
+    "cena": "103",
+    "okres_poczatek": "2021-10-01",
+    "okres_koniec": "2021-12-31"
+  },
+  {
+    "id_typ": 24,
+    "cena": "76",
+    "okres_poczatek": "2021-01-01",
+    "okres_koniec": "2021-04-30"
+  },
+  {
+    "id_typ": 24,
+    "cena": "115",
+    "okres_poczatek": "2021-05-01",
+    "okres_koniec": "2021-09-30"
+  },
+  {
+    "id_typ": 24,
+    "cena": "89",
+    "okres_poczatek": "2021-10-01",
+    "okres_koniec": "2021-12-31"
+  },
+  {
+    "id_typ": 25,
+    "cena": "74",
+    "okres_poczatek": "2021-01-01",
+    "okres_koniec": "2021-04-30"
+  },
+  {
+    "id_typ": 25,
+    "cena": "119",
+    "okres_poczatek": "2021-05-01",
+    "okres_koniec": "2021-09-30"
+  },
+  {
+    "id_typ": 25,
+    "cena": "110",
+    "okres_poczatek": "2021-10-01",
+    "okres_koniec": "2021-12-31"
+  },
+  {
+    "id_typ": 26,
+    "cena": "72",
+    "okres_poczatek": "2021-01-01",
+    "okres_koniec": "2021-04-30"
+  },
+  {
+    "id_typ": 26,
+    "cena": "108",
+    "okres_poczatek": "2021-05-01",
+    "okres_koniec": "2021-09-30"
+  },
+  {
+    "id_typ": 26,
+    "cena": "102",
+    "okres_poczatek": "2021-10-01",
+    "okres_koniec": "2021-12-31"
+  },
+  {
+    "id_typ": 27,
+    "cena": "87",
+    "okres_poczatek": "2021-01-01",
+    "okres_koniec": "2021-04-30"
+  },
+  {
+    "id_typ": 27,
+    "cena": "115",
+    "okres_poczatek": "2021-05-01",
+    "okres_koniec": "2021-09-30"
+  },
+  {
+    "id_typ": 27,
+    "cena": "105",
+    "okres_poczatek": "2021-10-01",
+    "okres_koniec": "2021-12-31"
+  },
+  {
+    "id_typ": 28,
+    "cena": "86",
+    "okres_poczatek": "2021-01-01",
+    "okres_koniec": "2021-04-30"
+  },
+  {
+    "id_typ": 28,
+    "cena": "108",
+    "okres_poczatek": "2021-05-01",
+    "okres_koniec": "2021-09-30"
+  },
+  {
+    "id_typ": 28,
+    "cena": "101",
+    "okres_poczatek": "2021-10-01",
+    "okres_koniec": "2021-12-31"
+  },
+  {
+    "id_typ": 29,
+    "cena": "99",
+    "okres_poczatek": "2021-01-01",
+    "okres_koniec": "2021-04-30"
+  },
+  {
+    "id_typ": 29,
+    "cena": "117",
+    "okres_poczatek": "2021-05-01",
+    "okres_koniec": "2021-09-30"
+  },
+  {
+    "id_typ": 29,
+    "cena": "97",
+    "okres_poczatek": "2021-10-01",
+    "okres_koniec": "2021-12-31"
+  },
+  {
+    "id_typ": 30,
+    "cena": "71",
+    "okres_poczatek": "2021-01-01",
+    "okres_koniec": "2021-04-30"
+  },
+  {
+    "id_typ": 30,
+    "cena": "112",
+    "okres_poczatek": "2021-05-01",
+    "okres_koniec": "2021-09-30"
+  },
+  {
+    "id_typ": 30,
+    "cena": "104",
+    "okres_poczatek": "2021-10-01",
+    "okres_koniec": "2021-12-31"
+  },
+  {
+    "id_typ": 31,
+    "cena": "92",
+    "okres_poczatek": "2021-01-01",
+    "okres_koniec": "2021-04-30"
+  },
+  {
+    "id_typ": 31,
+    "cena": "116",
+    "okres_poczatek": "2021-05-01",
+    "okres_koniec": "2021-09-30"
+  },
+  {
+    "id_typ": 31,
+    "cena": "88",
+    "okres_poczatek": "2021-10-01",
+    "okres_koniec": "2021-12-31"
+  },
+  {
+    "id_typ": 32,
+    "cena": "83",
+    "okres_poczatek": "2021-01-01",
+    "okres_koniec": "2021-04-30"
+  },
+  {
+    "id_typ": 32,
+    "cena": "112",
+    "okres_poczatek": "2021-05-01",
+    "okres_koniec": "2021-09-30"
+  },
+  {
+    "id_typ": 32,
+    "cena": "97",
+    "okres_poczatek": "2021-10-01",
+    "okres_koniec": "2021-12-31"
+  },
+  {
+    "id_typ": 33,
+    "cena": "78",
+    "okres_poczatek": "2021-01-01",
+    "okres_koniec": "2021-04-30"
+  },
+  {
+    "id_typ": 33,
+    "cena": "103",
+    "okres_poczatek": "2021-05-01",
+    "okres_koniec": "2021-09-30"
+  },
+  {
+    "id_typ": 33,
+    "cena": "99",
+    "okres_poczatek": "2021-10-01",
+    "okres_koniec": "2021-12-31"
+  },
+  {
+    "id_typ": 34,
+    "cena": "90",
+    "okres_poczatek": "2021-01-01",
+    "okres_koniec": "2021-04-30"
+  },
+  {
+    "id_typ": 34,
+    "cena": "125",
+    "okres_poczatek": "2021-05-01",
+    "okres_koniec": "2021-09-30"
+  },
+  {
+    "id_typ": 34,
+    "cena": "102",
+    "okres_poczatek": "2021-10-01",
+    "okres_koniec": "2021-12-31"
+  },
+  {
+    "id_typ": 35,
+    "cena": "96",
+    "okres_poczatek": "2021-01-01",
+    "okres_koniec": "2021-04-30"
+  },
+  {
+    "id_typ": 35,
+    "cena": "117",
+    "okres_poczatek": "2021-05-01",
+    "okres_koniec": "2021-09-30"
+  },
+  {
+    "id_typ": 35,
+    "cena": "104",
+    "okres_poczatek": "2021-10-01",
+    "okres_koniec": "2021-12-31"
+  },
+  {
+    "id_typ": 36,
+    "cena": "85",
+    "okres_poczatek": "2021-01-01",
+    "okres_koniec": "2021-04-30"
+  },
+  {
+    "id_typ": 36,
+    "cena": "102",
+    "okres_poczatek": "2021-05-01",
+    "okres_koniec": "2021-09-30"
+  },
+  {
+    "id_typ": 36,
+    "cena": "110",
+    "okres_poczatek": "2021-10-01",
+    "okres_koniec": "2021-12-31"
+  },
+  {
+    "id_typ": 37,
+    "cena": "92",
+    "okres_poczatek": "2021-01-01",
+    "okres_koniec": "2021-04-30"
+  },
+  {
+    "id_typ": 37,
+    "cena": "106",
+    "okres_poczatek": "2021-05-01",
+    "okres_koniec": "2021-09-30"
+  },
+  {
+    "id_typ": 37,
+    "cena": "99",
+    "okres_poczatek": "2021-10-01",
+    "okres_koniec": "2021-12-31"
+  },
+  {
+    "id_typ": 38,
+    "cena": "99",
+    "okres_poczatek": "2021-01-01",
+    "okres_koniec": "2021-04-30"
+  },
+  {
+    "id_typ": 38,
+    "cena": "108",
+    "okres_poczatek": "2021-05-01",
+    "okres_koniec": "2021-09-30"
+  },
+  {
+    "id_typ": 38,
+    "cena": "93",
+    "okres_poczatek": "2021-10-01",
+    "okres_koniec": "2021-12-31"
+  },
+  {
+    "id_typ": 39,
+    "cena": "94",
+    "okres_poczatek": "2021-01-01",
+    "okres_koniec": "2021-04-30"
+  },
+  {
+    "id_typ": 39,
+    "cena": "114",
+    "okres_poczatek": "2021-05-01",
+    "okres_koniec": "2021-09-30"
+  },
+  {
+    "id_typ": 39,
+    "cena": "108",
+    "okres_poczatek": "2021-10-01",
+    "okres_koniec": "2021-12-31"
+  },
+  {
+    "id_typ": 40,
+    "cena": "82",
+    "okres_poczatek": "2021-01-01",
+    "okres_koniec": "2021-04-30"
+  },
+  {
+    "id_typ": 40,
+    "cena": "127",
+    "okres_poczatek": "2021-05-01",
+    "okres_koniec": "2021-09-30"
+  },
+  {
+    "id_typ": 40,
+    "cena": "81",
+    "okres_poczatek": "2021-10-01",
+    "okres_koniec": "2021-12-31"
+  },
+  {
+    "id_typ": 41,
+    "cena": "100",
+    "okres_poczatek": "2021-01-01",
+    "okres_koniec": "2021-04-30"
+  },
+  {
+    "id_typ": 41,
+    "cena": "126",
+    "okres_poczatek": "2021-05-01",
+    "okres_koniec": "2021-09-30"
+  },
+  {
+    "id_typ": 41,
+    "cena": "104",
+    "okres_poczatek": "2021-10-01",
+    "okres_koniec": "2021-12-31"
+  },
+  {
+    "id_typ": 42,
+    "cena": "80",
+    "okres_poczatek": "2021-01-01",
+    "okres_koniec": "2021-04-30"
+  },
+  {
+    "id_typ": 42,
+    "cena": "106",
+    "okres_poczatek": "2021-05-01",
+    "okres_koniec": "2021-09-30"
+  },
+  {
+    "id_typ": 42,
+    "cena": "95",
+    "okres_poczatek": "2021-10-01",
+    "okres_koniec": "2021-12-31"
+  },
+  {
+    "id_typ": 43,
+    "cena": "99",
+    "okres_poczatek": "2021-01-01",
+    "okres_koniec": "2021-04-30"
+  },
+  {
+    "id_typ": 43,
+    "cena": "124",
+    "okres_poczatek": "2021-05-01",
+    "okres_koniec": "2021-09-30"
+  },
+  {
+    "id_typ": 43,
+    "cena": "109",
+    "okres_poczatek": "2021-10-01",
+    "okres_koniec": "2021-12-31"
+  },
+  {
+    "id_typ": 44,
+    "cena": "97",
+    "okres_poczatek": "2021-01-01",
+    "okres_koniec": "2021-04-30"
+  },
+  {
+    "id_typ": 44,
+    "cena": "126",
+    "okres_poczatek": "2021-05-01",
+    "okres_koniec": "2021-09-30"
+  },
+  {
+    "id_typ": 44,
+    "cena": "83",
+    "okres_poczatek": "2021-10-01",
+    "okres_koniec": "2021-12-31"
+  },
+  {
+    "id_typ": 45,
+    "cena": "81",
+    "okres_poczatek": "2021-01-01",
+    "okres_koniec": "2021-04-30"
+  },
+  {
+    "id_typ": 45,
+    "cena": "130",
+    "okres_poczatek": "2021-05-01",
+    "okres_koniec": "2021-09-30"
+  },
+  {
+    "id_typ": 45,
+    "cena": "103",
+    "okres_poczatek": "2021-10-01",
+    "okres_koniec": "2021-12-31"
+  },
+  {
+    "id_typ": 46,
+    "cena": "85",
+    "okres_poczatek": "2021-01-01",
+    "okres_koniec": "2021-04-30"
+  },
+  {
+    "id_typ": 46,
+    "cena": "116",
+    "okres_poczatek": "2021-05-01",
+    "okres_koniec": "2021-09-30"
+  },
+  {
+    "id_typ": 46,
+    "cena": "105",
+    "okres_poczatek": "2021-10-01",
+    "okres_koniec": "2021-12-31"
+  },
+  {
+    "id_typ": 47,
+    "cena": "72",
+    "okres_poczatek": "2021-01-01",
+    "okres_koniec": "2021-04-30"
+  },
+  {
+    "id_typ": 47,
+    "cena": "113",
+    "okres_poczatek": "2021-05-01",
+    "okres_koniec": "2021-09-30"
+  },
+  {
+    "id_typ": 47,
+    "cena": "104",
+    "okres_poczatek": "2021-10-01",
+    "okres_koniec": "2021-12-31"
+  },
+  {
+    "id_typ": 48,
+    "cena": "92",
+    "okres_poczatek": "2021-01-01",
+    "okres_koniec": "2021-04-30"
+  },
+  {
+    "id_typ": 48,
+    "cena": "104",
+    "okres_poczatek": "2021-05-01",
+    "okres_koniec": "2021-09-30"
+  },
+  {
+    "id_typ": 48,
+    "cena": "96",
+    "okres_poczatek": "2021-10-01",
+    "okres_koniec": "2021-12-31"
+  },
+  {
+    "id_typ": 49,
+    "cena": "80",
+    "okres_poczatek": "2021-01-01",
+    "okres_koniec": "2021-04-30"
+  },
+  {
+    "id_typ": 49,
+    "cena": "116",
+    "okres_poczatek": "2021-05-01",
+    "okres_koniec": "2021-09-30"
+  },
+  {
+    "id_typ": 49,
+    "cena": "105",
+    "okres_poczatek": "2021-10-01",
+    "okres_koniec": "2021-12-31"
+  },
+  {
+    "id_typ": 50,
+    "cena": "71",
+    "okres_poczatek": "2021-01-01",
+    "okres_koniec": "2021-04-30"
+  },
+  {
+    "id_typ": 50,
+    "cena": "129",
+    "okres_poczatek": "2021-05-01",
+    "okres_koniec": "2021-09-30"
+  },
+  {
+    "id_typ": 50,
+    "cena": "97",
+    "okres_poczatek": "2021-10-01",
+    "okres_koniec": "2021-12-31"
+  },
+  {
+    "id_typ": 51,
+    "cena": "83",
+    "okres_poczatek": "2021-01-01",
+    "okres_koniec": "2021-04-30"
+  },
+  {
+    "id_typ": 51,
+    "cena": "118",
+    "okres_poczatek": "2021-05-01",
+    "okres_koniec": "2021-09-30"
+  },
+  {
+    "id_typ": 51,
+    "cena": "83",
+    "okres_poczatek": "2021-10-01",
+    "okres_koniec": "2021-12-31"
+  },
+  {
+    "id_typ": 52,
+    "cena": "92",
+    "okres_poczatek": "2021-01-01",
+    "okres_koniec": "2021-04-30"
+  },
+  {
+    "id_typ": 52,
+    "cena": "122",
+    "okres_poczatek": "2021-05-01",
+    "okres_koniec": "2021-09-30"
+  },
+  {
+    "id_typ": 52,
+    "cena": "88",
+    "okres_poczatek": "2021-10-01",
+    "okres_koniec": "2021-12-31"
+  },
+  {
+    "id_typ": 53,
+    "cena": "95",
+    "okres_poczatek": "2021-01-01",
+    "okres_koniec": "2021-04-30"
+  },
+  {
+    "id_typ": 53,
+    "cena": "101",
+    "okres_poczatek": "2021-05-01",
+    "okres_koniec": "2021-09-30"
+  },
+  {
+    "id_typ": 53,
+    "cena": "101",
+    "okres_poczatek": "2021-10-01",
+    "okres_koniec": "2021-12-31"
+  },
+  {
+    "id_typ": 54,
+    "cena": "91",
+    "okres_poczatek": "2021-01-01",
+    "okres_koniec": "2021-04-30"
+  },
+  {
+    "id_typ": 54,
+    "cena": "130",
+    "okres_poczatek": "2021-05-01",
+    "okres_koniec": "2021-09-30"
+  },
+  {
+    "id_typ": 54,
+    "cena": "93",
+    "okres_poczatek": "2021-10-01",
+    "okres_koniec": "2021-12-31"
+  },
+  {
+    "id_typ": 55,
+    "cena": "86",
+    "okres_poczatek": "2021-01-01",
+    "okres_koniec": "2021-04-30"
+  },
+  {
+    "id_typ": 55,
+    "cena": "125",
+    "okres_poczatek": "2021-05-01",
+    "okres_koniec": "2021-09-30"
+  },
+  {
+    "id_typ": 55,
+    "cena": "93",
+    "okres_poczatek": "2021-10-01",
+    "okres_koniec": "2021-12-31"
+  },
+  {
+    "id_typ": 56,
+    "cena": "86",
+    "okres_poczatek": "2021-01-01",
+    "okres_koniec": "2021-04-30"
+  },
+  {
+    "id_typ": 56,
+    "cena": "101",
+    "okres_poczatek": "2021-05-01",
+    "okres_koniec": "2021-09-30"
+  },
+  {
+    "id_typ": 56,
+    "cena": "96",
+    "okres_poczatek": "2021-10-01",
+    "okres_koniec": "2021-12-31"
+  },
+  {
+    "id_typ": 57,
+    "cena": "96",
+    "okres_poczatek": "2021-01-01",
+    "okres_koniec": "2021-04-30"
+  },
+  {
+    "id_typ": 57,
+    "cena": "112",
+    "okres_poczatek": "2021-05-01",
+    "okres_koniec": "2021-09-30"
+  },
+  {
+    "id_typ": 57,
+    "cena": "91",
+    "okres_poczatek": "2021-10-01",
+    "okres_koniec": "2021-12-31"
+  },
+  {
+    "id_typ": 58,
+    "cena": "93",
+    "okres_poczatek": "2021-01-01",
+    "okres_koniec": "2021-04-30"
+  },
+  {
+    "id_typ": 58,
+    "cena": "125",
+    "okres_poczatek": "2021-05-01",
+    "okres_koniec": "2021-09-30"
+  },
+  {
+    "id_typ": 58,
+    "cena": "110",
+    "okres_poczatek": "2021-10-01",
+    "okres_koniec": "2021-12-31"
+  },
+  {
+    "id_typ": 59,
+    "cena": "77",
+    "okres_poczatek": "2021-01-01",
+    "okres_koniec": "2021-04-30"
+  },
+  {
+    "id_typ": 59,
+    "cena": "102",
+    "okres_poczatek": "2021-05-01",
+    "okres_koniec": "2021-09-30"
+  },
+  {
+    "id_typ": 59,
+    "cena": "109",
+    "okres_poczatek": "2021-10-01",
+    "okres_koniec": "2021-12-31"
+  },
+  {
+    "id_typ": 60,
+    "cena": "77",
+    "okres_poczatek": "2021-01-01",
+    "okres_koniec": "2021-04-30"
+  },
+  {
+    "id_typ": 60,
+    "cena": "130",
+    "okres_poczatek": "2021-05-01",
+    "okres_koniec": "2021-09-30"
+  },
+  {
+    "id_typ": 60,
+    "cena": "96",
+    "okres_poczatek": "2021-10-01",
+    "okres_koniec": "2021-12-31"
+  },
+  {
+    "id_typ": 61,
+    "cena": "88",
+    "okres_poczatek": "2021-01-01",
+    "okres_koniec": "2021-04-30"
+  },
+  {
+    "id_typ": 61,
+    "cena": "121",
+    "okres_poczatek": "2021-05-01",
+    "okres_koniec": "2021-09-30"
+  },
+  {
+    "id_typ": 61,
+    "cena": "101",
+    "okres_poczatek": "2021-10-01",
+    "okres_koniec": "2021-12-31"
+  },
+  {
+    "id_typ": 62,
+    "cena": "74",
+    "okres_poczatek": "2021-01-01",
+    "okres_koniec": "2021-04-30"
+  },
+  {
+    "id_typ": 62,
+    "cena": "121",
+    "okres_poczatek": "2021-05-01",
+    "okres_koniec": "2021-09-30"
+  },
+  {
+    "id_typ": 62,
+    "cena": "83",
+    "okres_poczatek": "2021-10-01",
+    "okres_koniec": "2021-12-31"
+  },
+  {
+    "id_typ": 63,
+    "cena": "98",
+    "okres_poczatek": "2021-01-01",
+    "okres_koniec": "2021-04-30"
+  },
+  {
+    "id_typ": 63,
+    "cena": "129",
+    "okres_poczatek": "2021-05-01",
+    "okres_koniec": "2021-09-30"
+  },
+  {
+    "id_typ": 63,
+    "cena": "100",
+    "okres_poczatek": "2021-10-01",
+    "okres_koniec": "2021-12-31"
+  },
+  {
+    "id_typ": 64,
+    "cena": "91",
+    "okres_poczatek": "2021-01-01",
+    "okres_koniec": "2021-04-30"
+  },
+  {
+    "id_typ": 64,
+    "cena": "119",
+    "okres_poczatek": "2021-05-01",
+    "okres_koniec": "2021-09-30"
+  },
+  {
+    "id_typ": 64,
+    "cena": "86",
+    "okres_poczatek": "2021-10-01",
+    "okres_koniec": "2021-12-31"
+  },
+  {
+    "id_typ": 65,
+    "cena": "96",
+    "okres_poczatek": "2021-01-01",
+    "okres_koniec": "2021-04-30"
+  },
+  {
+    "id_typ": 65,
+    "cena": "119",
+    "okres_poczatek": "2021-05-01",
+    "okres_koniec": "2021-09-30"
+  },
+  {
+    "id_typ": 65,
+    "cena": "89",
+    "okres_poczatek": "2021-10-01",
+    "okres_koniec": "2021-12-31"
+  },
+  {
+    "id_typ": 66,
+    "cena": "85",
+    "okres_poczatek": "2021-01-01",
+    "okres_koniec": "2021-04-30"
+  },
+  {
+    "id_typ": 66,
+    "cena": "109",
+    "okres_poczatek": "2021-05-01",
+    "okres_koniec": "2021-09-30"
+  },
+  {
+    "id_typ": 66,
+    "cena": "98",
+    "okres_poczatek": "2021-10-01",
+    "okres_koniec": "2021-12-31"
+  },
+  {
+    "id_typ": 67,
+    "cena": "82",
+    "okres_poczatek": "2021-01-01",
+    "okres_koniec": "2021-04-30"
+  },
+  {
+    "id_typ": 67,
+    "cena": "105",
+    "okres_poczatek": "2021-05-01",
+    "okres_koniec": "2021-09-30"
+  },
+  {
+    "id_typ": 67,
+    "cena": "92",
+    "okres_poczatek": "2021-10-01",
+    "okres_koniec": "2021-12-31"
+  },
+  {
+    "id_typ": 68,
+    "cena": "82",
+    "okres_poczatek": "2021-01-01",
+    "okres_koniec": "2021-04-30"
+  },
+  {
+    "id_typ": 68,
+    "cena": "114",
+    "okres_poczatek": "2021-05-01",
+    "okres_koniec": "2021-09-30"
+  },
+  {
+    "id_typ": 68,
+    "cena": "103",
+    "okres_poczatek": "2021-10-01",
+    "okres_koniec": "2021-12-31"
+  },
+  {
+    "id_typ": 69,
+    "cena": "88",
+    "okres_poczatek": "2021-01-01",
+    "okres_koniec": "2021-04-30"
+  },
+  {
+    "id_typ": 69,
+    "cena": "124",
+    "okres_poczatek": "2021-05-01",
+    "okres_koniec": "2021-09-30"
+  },
+  {
+    "id_typ": 69,
+    "cena": "98",
+    "okres_poczatek": "2021-10-01",
+    "okres_koniec": "2021-12-31"
+  },
+  {
+    "id_typ": 70,
+    "cena": "80",
+    "okres_poczatek": "2021-01-01",
+    "okres_koniec": "2021-04-30"
+  },
+  {
+    "id_typ": 70,
+    "cena": "103",
+    "okres_poczatek": "2021-05-01",
+    "okres_koniec": "2021-09-30"
+  },
+  {
+    "id_typ": 70,
+    "cena": "110",
+    "okres_poczatek": "2021-10-01",
+    "okres_koniec": "2021-12-31"
+  },
+  {
+    "id_typ": 71,
+    "cena": "95",
+    "okres_poczatek": "2021-01-01",
+    "okres_koniec": "2021-04-30"
+  },
+  {
+    "id_typ": 71,
+    "cena": "110",
+    "okres_poczatek": "2021-05-01",
+    "okres_koniec": "2021-09-30"
+  },
+  {
+    "id_typ": 71,
+    "cena": "80",
+    "okres_poczatek": "2021-10-01",
+    "okres_koniec": "2021-12-31"
+  },
+  {
+    "id_typ": 72,
+    "cena": "88",
+    "okres_poczatek": "2021-01-01",
+    "okres_koniec": "2021-04-30"
+  },
+  {
+    "id_typ": 72,
+    "cena": "129",
+    "okres_poczatek": "2021-05-01",
+    "okres_koniec": "2021-09-30"
+  },
+  {
+    "id_typ": 72,
+    "cena": "88",
+    "okres_poczatek": "2021-10-01",
+    "okres_koniec": "2021-12-31"
+  },
+  {
+    "id_typ": 73,
+    "cena": "72",
+    "okres_poczatek": "2021-01-01",
+    "okres_koniec": "2021-04-30"
+  },
+  {
+    "id_typ": 73,
+    "cena": "114",
+    "okres_poczatek": "2021-05-01",
+    "okres_koniec": "2021-09-30"
+  },
+  {
+    "id_typ": 73,
+    "cena": "101",
+    "okres_poczatek": "2021-10-01",
+    "okres_koniec": "2021-12-31"
+  },
+  {
+    "id_typ": 74,
+    "cena": "91",
+    "okres_poczatek": "2021-01-01",
+    "okres_koniec": "2021-04-30"
+  },
+  {
+    "id_typ": 74,
+    "cena": "102",
+    "okres_poczatek": "2021-05-01",
+    "okres_koniec": "2021-09-30"
+  },
+  {
+    "id_typ": 74,
+    "cena": "92",
+    "okres_poczatek": "2021-10-01",
+    "okres_koniec": "2021-12-31"
+  },
+  {
+    "id_typ": 75,
+    "cena": "83",
+    "okres_poczatek": "2021-01-01",
+    "okres_koniec": "2021-04-30"
+  },
+  {
+    "id_typ": 75,
+    "cena": "115",
+    "okres_poczatek": "2021-05-01",
+    "okres_koniec": "2021-09-30"
+  },
+  {
+    "id_typ": 75,
+    "cena": "80",
+    "okres_poczatek": "2021-10-01",
+    "okres_koniec": "2021-12-31"
+  },
+  {
+    "id_typ": 76,
+    "cena": "100",
+    "okres_poczatek": "2021-01-01",
+    "okres_koniec": "2021-04-30"
+  },
+  {
+    "id_typ": 76,
+    "cena": "126",
+    "okres_poczatek": "2021-05-01",
+    "okres_koniec": "2021-09-30"
+  },
+  {
+    "id_typ": 76,
+    "cena": "104",
+    "okres_poczatek": "2021-10-01",
+    "okres_koniec": "2021-12-31"
+  },
+  {
+    "id_typ": 77,
+    "cena": "89",
+    "okres_poczatek": "2021-01-01",
+    "okres_koniec": "2021-04-30"
+  },
+  {
+    "id_typ": 77,
+    "cena": "129",
+    "okres_poczatek": "2021-05-01",
+    "okres_koniec": "2021-09-30"
+  },
+  {
+    "id_typ": 77,
+    "cena": "85",
+    "okres_poczatek": "2021-10-01",
+    "okres_koniec": "2021-12-31"
+  },
+  {
+    "id_typ": 78,
+    "cena": "91",
+    "okres_poczatek": "2021-01-01",
+    "okres_koniec": "2021-04-30"
+  },
+  {
+    "id_typ": 78,
+    "cena": "100",
+    "okres_poczatek": "2021-05-01",
+    "okres_koniec": "2021-09-30"
+  },
+  {
+    "id_typ": 78,
+    "cena": "89",
+    "okres_poczatek": "2021-10-01",
+    "okres_koniec": "2021-12-31"
+  },
+  {
+    "id_typ": 79,
+    "cena": "95",
+    "okres_poczatek": "2021-01-01",
+    "okres_koniec": "2021-04-30"
+  },
+  {
+    "id_typ": 79,
+    "cena": "105",
+    "okres_poczatek": "2021-05-01",
+    "okres_koniec": "2021-09-30"
+  },
+  {
+    "id_typ": 79,
+    "cena": "83",
+    "okres_poczatek": "2021-10-01",
+    "okres_koniec": "2021-12-31"
+  },
+  {
+    "id_typ": 80,
+    "cena": "95",
+    "okres_poczatek": "2021-01-01",
+    "okres_koniec": "2021-04-30"
+  },
+  {
+    "id_typ": 80,
+    "cena": "128",
+    "okres_poczatek": "2021-05-01",
+    "okres_koniec": "2021-09-30"
+  },
+  {
+    "id_typ": 80,
+    "cena": "84",
+    "okres_poczatek": "2021-10-01",
+    "okres_koniec": "2021-12-31"
+  },
+  {
+    "id_typ": 81,
+    "cena": "94",
+    "okres_poczatek": "2021-01-01",
+    "okres_koniec": "2021-04-30"
+  },
+  {
+    "id_typ": 81,
+    "cena": "125",
+    "okres_poczatek": "2021-05-01",
+    "okres_koniec": "2021-09-30"
+  },
+  {
+    "id_typ": 81,
+    "cena": "98",
+    "okres_poczatek": "2021-10-01",
+    "okres_koniec": "2021-12-31"
+  },
+  {
+    "id_typ": 82,
+    "cena": "82",
+    "okres_poczatek": "2021-01-01",
+    "okres_koniec": "2021-04-30"
+  },
+  {
+    "id_typ": 82,
+    "cena": "120",
+    "okres_poczatek": "2021-05-01",
+    "okres_koniec": "2021-09-30"
+  },
+  {
+    "id_typ": 82,
+    "cena": "108",
+    "okres_poczatek": "2021-10-01",
+    "okres_koniec": "2021-12-31"
+  },
+  {
+    "id_typ": 83,
+    "cena": "97",
+    "okres_poczatek": "2021-01-01",
+    "okres_koniec": "2021-04-30"
+  },
+  {
+    "id_typ": 83,
+    "cena": "110",
+    "okres_poczatek": "2021-05-01",
+    "okres_koniec": "2021-09-30"
+  },
+  {
+    "id_typ": 83,
+    "cena": "81",
+    "okres_poczatek": "2021-10-01",
+    "okres_koniec": "2021-12-31"
+  },
+  {
+    "id_typ": 84,
+    "cena": "100",
+    "okres_poczatek": "2021-01-01",
+    "okres_koniec": "2021-04-30"
+  },
+  {
+    "id_typ": 84,
+    "cena": "123",
+    "okres_poczatek": "2021-05-01",
+    "okres_koniec": "2021-09-30"
+  },
+  {
+    "id_typ": 84,
+    "cena": "99",
+    "okres_poczatek": "2021-10-01",
+    "okres_koniec": "2021-12-31"
+  },
+  {
+    "id_typ": 85,
+    "cena": "90",
+    "okres_poczatek": "2021-01-01",
+    "okres_koniec": "2021-04-30"
+  },
+  {
+    "id_typ": 85,
+    "cena": "127",
+    "okres_poczatek": "2021-05-01",
+    "okres_koniec": "2021-09-30"
+  },
+  {
+    "id_typ": 85,
+    "cena": "97",
+    "okres_poczatek": "2021-10-01",
+    "okres_koniec": "2021-12-31"
+  },
+  {
+    "id_typ": 86,
+    "cena": "94",
+    "okres_poczatek": "2021-01-01",
+    "okres_koniec": "2021-04-30"
+  },
+  {
+    "id_typ": 86,
+    "cena": "106",
+    "okres_poczatek": "2021-05-01",
+    "okres_koniec": "2021-09-30"
+  },
+  {
+    "id_typ": 86,
+    "cena": "83",
+    "okres_poczatek": "2021-10-01",
+    "okres_koniec": "2021-12-31"
+  },
+  {
+    "id_typ": 87,
+    "cena": "92",
+    "okres_poczatek": "2021-01-01",
+    "okres_koniec": "2021-04-30"
+  },
+  {
+    "id_typ": 87,
+    "cena": "118",
+    "okres_poczatek": "2021-05-01",
+    "okres_koniec": "2021-09-30"
+  },
+  {
+    "id_typ": 87,
+    "cena": "110",
+    "okres_poczatek": "2021-10-01",
+    "okres_koniec": "2021-12-31"
+  },
+  {
+    "id_typ": 88,
+    "cena": "87",
+    "okres_poczatek": "2021-01-01",
+    "okres_koniec": "2021-04-30"
+  },
+  {
+    "id_typ": 88,
+    "cena": "120",
+    "okres_poczatek": "2021-05-01",
+    "okres_koniec": "2021-09-30"
+  },
+  {
+    "id_typ": 88,
+    "cena": "110",
+    "okres_poczatek": "2021-10-01",
+    "okres_koniec": "2021-12-31"
+  },
+  {
+    "id_typ": 89,
+    "cena": "79",
+    "okres_poczatek": "2021-01-01",
+    "okres_koniec": "2021-04-30"
+  },
+  {
+    "id_typ": 89,
+    "cena": "111",
+    "okres_poczatek": "2021-05-01",
+    "okres_koniec": "2021-09-30"
+  },
+  {
+    "id_typ": 89,
+    "cena": "96",
+    "okres_poczatek": "2021-10-01",
+    "okres_koniec": "2021-12-31"
+  },
+  {
+    "id_typ": 90,
+    "cena": "99",
+    "okres_poczatek": "2021-01-01",
+    "okres_koniec": "2021-04-30"
+  },
+  {
+    "id_typ": 90,
+    "cena": "101",
+    "okres_poczatek": "2021-05-01",
+    "okres_koniec": "2021-09-30"
+  },
+  {
+    "id_typ": 90,
+    "cena": "102",
+    "okres_poczatek": "2021-10-01",
+    "okres_koniec": "2021-12-31"
+  },
+  {
+    "id_typ": 91,
+    "cena": "90",
+    "okres_poczatek": "2021-01-01",
+    "okres_koniec": "2021-04-30"
+  },
+  {
+    "id_typ": 91,
+    "cena": "120",
+    "okres_poczatek": "2021-05-01",
+    "okres_koniec": "2021-09-30"
+  },
+  {
+    "id_typ": 91,
+    "cena": "100",
+    "okres_poczatek": "2021-10-01",
+    "okres_koniec": "2021-12-31"
+  },
+  {
+    "id_typ": 92,
+    "cena": "89",
+    "okres_poczatek": "2021-01-01",
+    "okres_koniec": "2021-04-30"
+  },
+  {
+    "id_typ": 92,
+    "cena": "106",
+    "okres_poczatek": "2021-05-01",
+    "okres_koniec": "2021-09-30"
+  },
+  {
+    "id_typ": 92,
+    "cena": "95",
+    "okres_poczatek": "2021-10-01",
+    "okres_koniec": "2021-12-31"
+  },
+  {
+    "id_typ": 93,
+    "cena": "89",
+    "okres_poczatek": "2021-01-01",
+    "okres_koniec": "2021-04-30"
+  },
+  {
+    "id_typ": 93,
+    "cena": "119",
+    "okres_poczatek": "2021-05-01",
+    "okres_koniec": "2021-09-30"
+  },
+  {
+    "id_typ": 93,
+    "cena": "93",
+    "okres_poczatek": "2021-10-01",
+    "okres_koniec": "2021-12-31"
+  },
+  {
+    "id_typ": 94,
+    "cena": "94",
+    "okres_poczatek": "2021-01-01",
+    "okres_koniec": "2021-04-30"
+  },
+  {
+    "id_typ": 94,
+    "cena": "101",
+    "okres_poczatek": "2021-05-01",
+    "okres_koniec": "2021-09-30"
+  },
+  {
+    "id_typ": 94,
+    "cena": "83",
+    "okres_poczatek": "2021-10-01",
+    "okres_koniec": "2021-12-31"
+  },
+  {
+    "id_typ": 95,
+    "cena": "74",
+    "okres_poczatek": "2021-01-01",
+    "okres_koniec": "2021-04-30"
+  },
+  {
+    "id_typ": 95,
+    "cena": "125",
+    "okres_poczatek": "2021-05-01",
+    "okres_koniec": "2021-09-30"
+  },
+  {
+    "id_typ": 95,
+    "cena": "89",
+    "okres_poczatek": "2021-10-01",
+    "okres_koniec": "2021-12-31"
+  },
+  {
+    "id_typ": 96,
+    "cena": "82",
+    "okres_poczatek": "2021-01-01",
+    "okres_koniec": "2021-04-30"
+  },
+  {
+    "id_typ": 96,
+    "cena": "117",
+    "okres_poczatek": "2021-05-01",
+    "okres_koniec": "2021-09-30"
+  },
+  {
+    "id_typ": 96,
+    "cena": "105",
+    "okres_poczatek": "2021-10-01",
+    "okres_koniec": "2021-12-31"
+  },
+  {
+    "id_typ": 97,
+    "cena": "88",
+    "okres_poczatek": "2021-01-01",
+    "okres_koniec": "2021-04-30"
+  },
+  {
+    "id_typ": 97,
+    "cena": "101",
+    "okres_poczatek": "2021-05-01",
+    "okres_koniec": "2021-09-30"
+  },
+  {
+    "id_typ": 97,
+    "cena": "102",
+    "okres_poczatek": "2021-10-01",
+    "okres_koniec": "2021-12-31"
+  },
+  {
+    "id_typ": 98,
+    "cena": "70",
+    "okres_poczatek": "2021-01-01",
+    "okres_koniec": "2021-04-30"
+  },
+  {
+    "id_typ": 98,
+    "cena": "122",
+    "okres_poczatek": "2021-05-01",
+    "okres_koniec": "2021-09-30"
+  },
+  {
+    "id_typ": 98,
+    "cena": "84",
+    "okres_poczatek": "2021-10-01",
+    "okres_koniec": "2021-12-31"
+  },
+  {
+    "id_typ": 99,
+    "cena": "96",
+    "okres_poczatek": "2021-01-01",
+    "okres_koniec": "2021-04-30"
+  },
+  {
+    "id_typ": 99,
+    "cena": "120",
+    "okres_poczatek": "2021-05-01",
+    "okres_koniec": "2021-09-30"
+  },
+  {
+    "id_typ": 99,
+    "cena": "110",
+    "okres_poczatek": "2021-10-01",
+    "okres_koniec": "2021-12-31"
+  },
+  {
+    "id_typ": 100,
+    "cena": "92",
+    "okres_poczatek": "2021-01-01",
+    "okres_koniec": "2021-04-30"
+  },
+  {
+    "id_typ": 100,
+    "cena": "130",
+    "okres_poczatek": "2021-05-01",
+    "okres_koniec": "2021-09-30"
+  },
+  {
+    "id_typ": 100,
+    "cena": "103",
+    "okres_poczatek": "2021-10-01",
+    "okres_koniec": "2021-12-31"
+  },
+  {
+    "id_typ": 101,
+    "cena": "81",
+    "okres_poczatek": "2021-01-01",
+    "okres_koniec": "2021-04-30"
+  },
+  {
+    "id_typ": 101,
+    "cena": "118",
+    "okres_poczatek": "2021-05-01",
+    "okres_koniec": "2021-09-30"
+  },
+  {
+    "id_typ": 101,
+    "cena": "97",
+    "okres_poczatek": "2021-10-01",
+    "okres_koniec": "2021-12-31"
+  },
+  {
+    "id_typ": 102,
+    "cena": "100",
+    "okres_poczatek": "2021-01-01",
+    "okres_koniec": "2021-04-30"
+  },
+  {
+    "id_typ": 102,
+    "cena": "104",
+    "okres_poczatek": "2021-05-01",
+    "okres_koniec": "2021-09-30"
+  },
+  {
+    "id_typ": 102,
+    "cena": "104",
+    "okres_poczatek": "2021-10-01",
+    "okres_koniec": "2021-12-31"
+  },
+  {
+    "id_typ": 103,
+    "cena": "81",
+    "okres_poczatek": "2021-01-01",
+    "okres_koniec": "2021-04-30"
+  },
+  {
+    "id_typ": 103,
+    "cena": "125",
+    "okres_poczatek": "2021-05-01",
+    "okres_koniec": "2021-09-30"
+  },
+  {
+    "id_typ": 103,
+    "cena": "109",
+    "okres_poczatek": "2021-10-01",
+    "okres_koniec": "2021-12-31"
+  },
+  {
+    "id_typ": 104,
+    "cena": "100",
+    "okres_poczatek": "2021-01-01",
+    "okres_koniec": "2021-04-30"
+  },
+  {
+    "id_typ": 104,
+    "cena": "122",
+    "okres_poczatek": "2021-05-01",
+    "okres_koniec": "2021-09-30"
+  },
+  {
+    "id_typ": 104,
+    "cena": "90",
+    "okres_poczatek": "2021-10-01",
+    "okres_koniec": "2021-12-31"
+  },
+  {
+    "id_typ": 105,
+    "cena": "99",
+    "okres_poczatek": "2021-01-01",
+    "okres_koniec": "2021-04-30"
+  },
+  {
+    "id_typ": 105,
+    "cena": "115",
+    "okres_poczatek": "2021-05-01",
+    "okres_koniec": "2021-09-30"
+  },
+  {
+    "id_typ": 105,
+    "cena": "90",
+    "okres_poczatek": "2021-10-01",
+    "okres_koniec": "2021-12-31"
+  },
+  {
+    "id_typ": 106,
+    "cena": "73",
+    "okres_poczatek": "2021-01-01",
+    "okres_koniec": "2021-04-30"
+  },
+  {
+    "id_typ": 106,
+    "cena": "101",
+    "okres_poczatek": "2021-05-01",
+    "okres_koniec": "2021-09-30"
+  },
+  {
+    "id_typ": 106,
+    "cena": "80",
+    "okres_poczatek": "2021-10-01",
+    "okres_koniec": "2021-12-31"
+  },
+  {
+    "id_typ": 107,
+    "cena": "78",
+    "okres_poczatek": "2021-01-01",
+    "okres_koniec": "2021-04-30"
+  },
+  {
+    "id_typ": 107,
+    "cena": "108",
+    "okres_poczatek": "2021-05-01",
+    "okres_koniec": "2021-09-30"
+  },
+  {
+    "id_typ": 107,
+    "cena": "91",
+    "okres_poczatek": "2021-10-01",
+    "okres_koniec": "2021-12-31"
+  },
+  {
+    "id_typ": 108,
+    "cena": "86",
+    "okres_poczatek": "2021-01-01",
+    "okres_koniec": "2021-04-30"
+  },
+  {
+    "id_typ": 108,
+    "cena": "130",
+    "okres_poczatek": "2021-05-01",
+    "okres_koniec": "2021-09-30"
+  },
+  {
+    "id_typ": 108,
+    "cena": "98",
+    "okres_poczatek": "2021-10-01",
+    "okres_koniec": "2021-12-31"
+  },
+  {
+    "id_typ": 109,
+    "cena": "83",
+    "okres_poczatek": "2021-01-01",
+    "okres_koniec": "2021-04-30"
+  },
+  {
+    "id_typ": 109,
+    "cena": "124",
+    "okres_poczatek": "2021-05-01",
+    "okres_koniec": "2021-09-30"
+  },
+  {
+    "id_typ": 109,
+    "cena": "82",
+    "okres_poczatek": "2021-10-01",
+    "okres_koniec": "2021-12-31"
+  },
+  {
+    "id_typ": 110,
+    "cena": "93",
+    "okres_poczatek": "2021-01-01",
+    "okres_koniec": "2021-04-30"
+  },
+  {
+    "id_typ": 110,
+    "cena": "113",
+    "okres_poczatek": "2021-05-01",
+    "okres_koniec": "2021-09-30"
+  },
+  {
+    "id_typ": 110,
+    "cena": "83",
+    "okres_poczatek": "2021-10-01",
+    "okres_koniec": "2021-12-31"
+  },
+  {
+    "id_typ": 111,
+    "cena": "79",
+    "okres_poczatek": "2021-01-01",
+    "okres_koniec": "2021-04-30"
+  },
+  {
+    "id_typ": 111,
+    "cena": "116",
+    "okres_poczatek": "2021-05-01",
+    "okres_koniec": "2021-09-30"
+  },
+  {
+    "id_typ": 111,
+    "cena": "89",
+    "okres_poczatek": "2021-10-01",
+    "okres_koniec": "2021-12-31"
+  },
+  {
+    "id_typ": 112,
+    "cena": "79",
+    "okres_poczatek": "2021-01-01",
+    "okres_koniec": "2021-04-30"
+  },
+  {
+    "id_typ": 112,
+    "cena": "127",
+    "okres_poczatek": "2021-05-01",
+    "okres_koniec": "2021-09-30"
+  },
+  {
+    "id_typ": 112,
+    "cena": "92",
+    "okres_poczatek": "2021-10-01",
+    "okres_koniec": "2021-12-31"
+  },
+  {
+    "id_typ": 113,
+    "cena": "77",
+    "okres_poczatek": "2021-01-01",
+    "okres_koniec": "2021-04-30"
+  },
+  {
+    "id_typ": 113,
+    "cena": "115",
+    "okres_poczatek": "2021-05-01",
+    "okres_koniec": "2021-09-30"
+  },
+  {
+    "id_typ": 113,
+    "cena": "86",
+    "okres_poczatek": "2021-10-01",
+    "okres_koniec": "2021-12-31"
+  },
+  {
+    "id_typ": 114,
+    "cena": "97",
+    "okres_poczatek": "2021-01-01",
+    "okres_koniec": "2021-04-30"
+  },
+  {
+    "id_typ": 114,
+    "cena": "112",
+    "okres_poczatek": "2021-05-01",
+    "okres_koniec": "2021-09-30"
+  },
+  {
+    "id_typ": 114,
+    "cena": "88",
+    "okres_poczatek": "2021-10-01",
+    "okres_koniec": "2021-12-31"
+  }
+]

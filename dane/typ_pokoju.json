@@ -1,0 +1,800 @@
+[
+  {
+    "id_hotel": 1,
+    "nazwa": "podstawowe",
+    "opis": "dwułóżkowe",
+    "typ_wezlu_higsan": "rozbudowany",
+    "dla_palaczy": true
+  },
+  {
+    "id_hotel": 1,
+    "nazwa": "studio",
+    "opis": "jednołóżkowe z dostawką",
+    "typ_wezlu_higsan": "pełny",
+    "dla_palaczy": true
+  },
+  {
+    "id_hotel": 1,
+    "nazwa": "apartamentowe",
+    "opis": "dwu- i więcej izbowe, posiadające indywidualne wykończenie i wyposażenie",
+    "typ_wezlu_higsan": "uproszczony",
+    "dla_palaczy": false
+  },
+  {
+    "id_hotel": 1,
+    "nazwa": "wieloosobowe",
+    "opis": "trzy- i więcej łóżkowe",
+    "typ_wezlu_higsan": "pełny",
+    "dla_palaczy": false
+  },
+  {
+    "id_hotel": 1,
+    "nazwa": "rezydencjonalne",
+    "opis": "wieloizbowe, przystosowane do obsługi ruchu familijnego,",
+    "typ_wezlu_higsan": "pełny",
+    "dla_palaczy": true
+  },
+  {
+    "id_hotel": 1,
+    "nazwa": "specjalne",
+    "opis": "dla biznesmenów (o zmiennej funkcji wyposażeniowej), osób niepełnosprawnych itd",
+    "typ_wezlu_higsan": "pełny",
+    "dla_palaczy": false
+  },
+  {
+    "id_hotel": 2,
+    "nazwa": "podstawowe",
+    "opis": "dwułóżkowe",
+    "typ_wezlu_higsan": "pełny",
+    "dla_palaczy": true
+  },
+  {
+    "id_hotel": 2,
+    "nazwa": "studio",
+    "opis": "jednołóżkowe z dostawką",
+    "typ_wezlu_higsan": "rozbudowany",
+    "dla_palaczy": false
+  },
+  {
+    "id_hotel": 2,
+    "nazwa": "apartamentowe",
+    "opis": "dwu- i więcej izbowe, posiadające indywidualne wykończenie i wyposażenie",
+    "typ_wezlu_higsan": "rozbudowany",
+    "dla_palaczy": true
+  },
+  {
+    "id_hotel": 2,
+    "nazwa": "wieloosobowe",
+    "opis": "trzy- i więcej łóżkowe",
+    "typ_wezlu_higsan": "rozbudowany",
+    "dla_palaczy": false
+  },
+  {
+    "id_hotel": 2,
+    "nazwa": "rezydencjonalne",
+    "opis": "wieloizbowe, przystosowane do obsługi ruchu familijnego,",
+    "typ_wezlu_higsan": "rozbudowany",
+    "dla_palaczy": true
+  },
+  {
+    "id_hotel": 2,
+    "nazwa": "specjalne",
+    "opis": "dla biznesmenów (o zmiennej funkcji wyposażeniowej), osób niepełnosprawnych itd",
+    "typ_wezlu_higsan": "uproszczony",
+    "dla_palaczy": true
+  },
+  {
+    "id_hotel": 3,
+    "nazwa": "podstawowe",
+    "opis": "dwułóżkowe",
+    "typ_wezlu_higsan": "rozbudowany",
+    "dla_palaczy": false
+  },
+  {
+    "id_hotel": 3,
+    "nazwa": "studio",
+    "opis": "jednołóżkowe z dostawką",
+    "typ_wezlu_higsan": "rozbudowany",
+    "dla_palaczy": false
+  },
+  {
+    "id_hotel": 3,
+    "nazwa": "apartamentowe",
+    "opis": "dwu- i więcej izbowe, posiadające indywidualne wykończenie i wyposażenie",
+    "typ_wezlu_higsan": "uproszczony",
+    "dla_palaczy": false
+  },
+  {
+    "id_hotel": 3,
+    "nazwa": "wieloosobowe",
+    "opis": "trzy- i więcej łóżkowe",
+    "typ_wezlu_higsan": "uproszczony",
+    "dla_palaczy": false
+  },
+  {
+    "id_hotel": 3,
+    "nazwa": "rezydencjonalne",
+    "opis": "wieloizbowe, przystosowane do obsługi ruchu familijnego,",
+    "typ_wezlu_higsan": "pełny",
+    "dla_palaczy": false
+  },
+  {
+    "id_hotel": 3,
+    "nazwa": "specjalne",
+    "opis": "dla biznesmenów (o zmiennej funkcji wyposażeniowej), osób niepełnosprawnych itd",
+    "typ_wezlu_higsan": "rozbudowany",
+    "dla_palaczy": true
+  },
+  {
+    "id_hotel": 4,
+    "nazwa": "podstawowe",
+    "opis": "dwułóżkowe",
+    "typ_wezlu_higsan": "pełny",
+    "dla_palaczy": false
+  },
+  {
+    "id_hotel": 4,
+    "nazwa": "studio",
+    "opis": "jednołóżkowe z dostawką",
+    "typ_wezlu_higsan": "rozbudowany",
+    "dla_palaczy": true
+  },
+  {
+    "id_hotel": 4,
+    "nazwa": "apartamentowe",
+    "opis": "dwu- i więcej izbowe, posiadające indywidualne wykończenie i wyposażenie",
+    "typ_wezlu_higsan": "pełny",
+    "dla_palaczy": false
+  },
+  {
+    "id_hotel": 4,
+    "nazwa": "wieloosobowe",
+    "opis": "trzy- i więcej łóżkowe",
+    "typ_wezlu_higsan": "pełny",
+    "dla_palaczy": false
+  },
+  {
+    "id_hotel": 4,
+    "nazwa": "rezydencjonalne",
+    "opis": "wieloizbowe, przystosowane do obsługi ruchu familijnego,",
+    "typ_wezlu_higsan": "uproszczony",
+    "dla_palaczy": true
+  },
+  {
+    "id_hotel": 4,
+    "nazwa": "specjalne",
+    "opis": "dla biznesmenów (o zmiennej funkcji wyposażeniowej), osób niepełnosprawnych itd",
+    "typ_wezlu_higsan": "uproszczony",
+    "dla_palaczy": true
+  },
+  {
+    "id_hotel": 5,
+    "nazwa": "podstawowe",
+    "opis": "dwułóżkowe",
+    "typ_wezlu_higsan": "rozbudowany",
+    "dla_palaczy": true
+  },
+  {
+    "id_hotel": 5,
+    "nazwa": "studio",
+    "opis": "jednołóżkowe z dostawką",
+    "typ_wezlu_higsan": "uproszczony",
+    "dla_palaczy": true
+  },
+  {
+    "id_hotel": 5,
+    "nazwa": "apartamentowe",
+    "opis": "dwu- i więcej izbowe, posiadające indywidualne wykończenie i wyposażenie",
+    "typ_wezlu_higsan": "rozbudowany",
+    "dla_palaczy": true
+  },
+  {
+    "id_hotel": 5,
+    "nazwa": "wieloosobowe",
+    "opis": "trzy- i więcej łóżkowe",
+    "typ_wezlu_higsan": "uproszczony",
+    "dla_palaczy": true
+  },
+  {
+    "id_hotel": 5,
+    "nazwa": "rezydencjonalne",
+    "opis": "wieloizbowe, przystosowane do obsługi ruchu familijnego,",
+    "typ_wezlu_higsan": "pełny",
+    "dla_palaczy": true
+  },
+  {
+    "id_hotel": 5,
+    "nazwa": "specjalne",
+    "opis": "dla biznesmenów (o zmiennej funkcji wyposażeniowej), osób niepełnosprawnych itd",
+    "typ_wezlu_higsan": "pełny",
+    "dla_palaczy": false
+  },
+  {
+    "id_hotel": 6,
+    "nazwa": "podstawowe",
+    "opis": "dwułóżkowe",
+    "typ_wezlu_higsan": "rozbudowany",
+    "dla_palaczy": true
+  },
+  {
+    "id_hotel": 6,
+    "nazwa": "studio",
+    "opis": "jednołóżkowe z dostawką",
+    "typ_wezlu_higsan": "rozbudowany",
+    "dla_palaczy": false
+  },
+  {
+    "id_hotel": 6,
+    "nazwa": "apartamentowe",
+    "opis": "dwu- i więcej izbowe, posiadające indywidualne wykończenie i wyposażenie",
+    "typ_wezlu_higsan": "rozbudowany",
+    "dla_palaczy": true
+  },
+  {
+    "id_hotel": 6,
+    "nazwa": "wieloosobowe",
+    "opis": "trzy- i więcej łóżkowe",
+    "typ_wezlu_higsan": "rozbudowany",
+    "dla_palaczy": false
+  },
+  {
+    "id_hotel": 6,
+    "nazwa": "rezydencjonalne",
+    "opis": "wieloizbowe, przystosowane do obsługi ruchu familijnego,",
+    "typ_wezlu_higsan": "pełny",
+    "dla_palaczy": false
+  },
+  {
+    "id_hotel": 6,
+    "nazwa": "specjalne",
+    "opis": "dla biznesmenów (o zmiennej funkcji wyposażeniowej), osób niepełnosprawnych itd",
+    "typ_wezlu_higsan": "uproszczony",
+    "dla_palaczy": true
+  },
+  {
+    "id_hotel": 7,
+    "nazwa": "podstawowe",
+    "opis": "dwułóżkowe",
+    "typ_wezlu_higsan": "uproszczony",
+    "dla_palaczy": true
+  },
+  {
+    "id_hotel": 7,
+    "nazwa": "studio",
+    "opis": "jednołóżkowe z dostawką",
+    "typ_wezlu_higsan": "rozbudowany",
+    "dla_palaczy": true
+  },
+  {
+    "id_hotel": 7,
+    "nazwa": "apartamentowe",
+    "opis": "dwu- i więcej izbowe, posiadające indywidualne wykończenie i wyposażenie",
+    "typ_wezlu_higsan": "uproszczony",
+    "dla_palaczy": false
+  },
+  {
+    "id_hotel": 7,
+    "nazwa": "wieloosobowe",
+    "opis": "trzy- i więcej łóżkowe",
+    "typ_wezlu_higsan": "rozbudowany",
+    "dla_palaczy": false
+  },
+  {
+    "id_hotel": 7,
+    "nazwa": "rezydencjonalne",
+    "opis": "wieloizbowe, przystosowane do obsługi ruchu familijnego,",
+    "typ_wezlu_higsan": "pełny",
+    "dla_palaczy": true
+  },
+  {
+    "id_hotel": 7,
+    "nazwa": "specjalne",
+    "opis": "dla biznesmenów (o zmiennej funkcji wyposażeniowej), osób niepełnosprawnych itd",
+    "typ_wezlu_higsan": "rozbudowany",
+    "dla_palaczy": false
+  },
+  {
+    "id_hotel": 8,
+    "nazwa": "podstawowe",
+    "opis": "dwułóżkowe",
+    "typ_wezlu_higsan": "uproszczony",
+    "dla_palaczy": true
+  },
+  {
+    "id_hotel": 8,
+    "nazwa": "studio",
+    "opis": "jednołóżkowe z dostawką",
+    "typ_wezlu_higsan": "pełny",
+    "dla_palaczy": false
+  },
+  {
+    "id_hotel": 8,
+    "nazwa": "apartamentowe",
+    "opis": "dwu- i więcej izbowe, posiadające indywidualne wykończenie i wyposażenie",
+    "typ_wezlu_higsan": "rozbudowany",
+    "dla_palaczy": false
+  },
+  {
+    "id_hotel": 8,
+    "nazwa": "wieloosobowe",
+    "opis": "trzy- i więcej łóżkowe",
+    "typ_wezlu_higsan": "rozbudowany",
+    "dla_palaczy": false
+  },
+  {
+    "id_hotel": 8,
+    "nazwa": "rezydencjonalne",
+    "opis": "wieloizbowe, przystosowane do obsługi ruchu familijnego,",
+    "typ_wezlu_higsan": "rozbudowany",
+    "dla_palaczy": false
+  },
+  {
+    "id_hotel": 8,
+    "nazwa": "specjalne",
+    "opis": "dla biznesmenów (o zmiennej funkcji wyposażeniowej), osób niepełnosprawnych itd",
+    "typ_wezlu_higsan": "rozbudowany",
+    "dla_palaczy": false
+  },
+  {
+    "id_hotel": 9,
+    "nazwa": "podstawowe",
+    "opis": "dwułóżkowe",
+    "typ_wezlu_higsan": "uproszczony",
+    "dla_palaczy": true
+  },
+  {
+    "id_hotel": 9,
+    "nazwa": "studio",
+    "opis": "jednołóżkowe z dostawką",
+    "typ_wezlu_higsan": "rozbudowany",
+    "dla_palaczy": false
+  },
+  {
+    "id_hotel": 9,
+    "nazwa": "apartamentowe",
+    "opis": "dwu- i więcej izbowe, posiadające indywidualne wykończenie i wyposażenie",
+    "typ_wezlu_higsan": "uproszczony",
+    "dla_palaczy": true
+  },
+  {
+    "id_hotel": 9,
+    "nazwa": "wieloosobowe",
+    "opis": "trzy- i więcej łóżkowe",
+    "typ_wezlu_higsan": "pełny",
+    "dla_palaczy": true
+  },
+  {
+    "id_hotel": 9,
+    "nazwa": "rezydencjonalne",
+    "opis": "wieloizbowe, przystosowane do obsługi ruchu familijnego,",
+    "typ_wezlu_higsan": "pełny",
+    "dla_palaczy": false
+  },
+  {
+    "id_hotel": 9,
+    "nazwa": "specjalne",
+    "opis": "dla biznesmenów (o zmiennej funkcji wyposażeniowej), osób niepełnosprawnych itd",
+    "typ_wezlu_higsan": "pełny",
+    "dla_palaczy": true
+  },
+  {
+    "id_hotel": 10,
+    "nazwa": "podstawowe",
+    "opis": "dwułóżkowe",
+    "typ_wezlu_higsan": "uproszczony",
+    "dla_palaczy": false
+  },
+  {
+    "id_hotel": 10,
+    "nazwa": "studio",
+    "opis": "jednołóżkowe z dostawką",
+    "typ_wezlu_higsan": "pełny",
+    "dla_palaczy": true
+  },
+  {
+    "id_hotel": 10,
+    "nazwa": "apartamentowe",
+    "opis": "dwu- i więcej izbowe, posiadające indywidualne wykończenie i wyposażenie",
+    "typ_wezlu_higsan": "uproszczony",
+    "dla_palaczy": true
+  },
+  {
+    "id_hotel": 10,
+    "nazwa": "wieloosobowe",
+    "opis": "trzy- i więcej łóżkowe",
+    "typ_wezlu_higsan": "pełny",
+    "dla_palaczy": true
+  },
+  {
+    "id_hotel": 10,
+    "nazwa": "rezydencjonalne",
+    "opis": "wieloizbowe, przystosowane do obsługi ruchu familijnego,",
+    "typ_wezlu_higsan": "uproszczony",
+    "dla_palaczy": true
+  },
+  {
+    "id_hotel": 10,
+    "nazwa": "specjalne",
+    "opis": "dla biznesmenów (o zmiennej funkcji wyposażeniowej), osób niepełnosprawnych itd",
+    "typ_wezlu_higsan": "uproszczony",
+    "dla_palaczy": false
+  },
+  {
+    "id_hotel": 11,
+    "nazwa": "podstawowe",
+    "opis": "dwułóżkowe",
+    "typ_wezlu_higsan": "rozbudowany",
+    "dla_palaczy": true
+  },
+  {
+    "id_hotel": 11,
+    "nazwa": "studio",
+    "opis": "jednołóżkowe z dostawką",
+    "typ_wezlu_higsan": "pełny",
+    "dla_palaczy": false
+  },
+  {
+    "id_hotel": 11,
+    "nazwa": "apartamentowe",
+    "opis": "dwu- i więcej izbowe, posiadające indywidualne wykończenie i wyposażenie",
+    "typ_wezlu_higsan": "rozbudowany",
+    "dla_palaczy": true
+  },
+  {
+    "id_hotel": 11,
+    "nazwa": "wieloosobowe",
+    "opis": "trzy- i więcej łóżkowe",
+    "typ_wezlu_higsan": "pełny",
+    "dla_palaczy": false
+  },
+  {
+    "id_hotel": 11,
+    "nazwa": "rezydencjonalne",
+    "opis": "wieloizbowe, przystosowane do obsługi ruchu familijnego,",
+    "typ_wezlu_higsan": "pełny",
+    "dla_palaczy": true
+  },
+  {
+    "id_hotel": 11,
+    "nazwa": "specjalne",
+    "opis": "dla biznesmenów (o zmiennej funkcji wyposażeniowej), osób niepełnosprawnych itd",
+    "typ_wezlu_higsan": "uproszczony",
+    "dla_palaczy": false
+  },
+  {
+    "id_hotel": 12,
+    "nazwa": "podstawowe",
+    "opis": "dwułóżkowe",
+    "typ_wezlu_higsan": "uproszczony",
+    "dla_palaczy": false
+  },
+  {
+    "id_hotel": 12,
+    "nazwa": "studio",
+    "opis": "jednołóżkowe z dostawką",
+    "typ_wezlu_higsan": "pełny",
+    "dla_palaczy": false
+  },
+  {
+    "id_hotel": 12,
+    "nazwa": "apartamentowe",
+    "opis": "dwu- i więcej izbowe, posiadające indywidualne wykończenie i wyposażenie",
+    "typ_wezlu_higsan": "uproszczony",
+    "dla_palaczy": false
+  },
+  {
+    "id_hotel": 12,
+    "nazwa": "wieloosobowe",
+    "opis": "trzy- i więcej łóżkowe",
+    "typ_wezlu_higsan": "rozbudowany",
+    "dla_palaczy": true
+  },
+  {
+    "id_hotel": 12,
+    "nazwa": "rezydencjonalne",
+    "opis": "wieloizbowe, przystosowane do obsługi ruchu familijnego,",
+    "typ_wezlu_higsan": "pełny",
+    "dla_palaczy": true
+  },
+  {
+    "id_hotel": 12,
+    "nazwa": "specjalne",
+    "opis": "dla biznesmenów (o zmiennej funkcji wyposażeniowej), osób niepełnosprawnych itd",
+    "typ_wezlu_higsan": "uproszczony",
+    "dla_palaczy": true
+  },
+  {
+    "id_hotel": 13,
+    "nazwa": "podstawowe",
+    "opis": "dwułóżkowe",
+    "typ_wezlu_higsan": "uproszczony",
+    "dla_palaczy": true
+  },
+  {
+    "id_hotel": 13,
+    "nazwa": "studio",
+    "opis": "jednołóżkowe z dostawką",
+    "typ_wezlu_higsan": "uproszczony",
+    "dla_palaczy": true
+  },
+  {
+    "id_hotel": 13,
+    "nazwa": "apartamentowe",
+    "opis": "dwu- i więcej izbowe, posiadające indywidualne wykończenie i wyposażenie",
+    "typ_wezlu_higsan": "rozbudowany",
+    "dla_palaczy": false
+  },
+  {
+    "id_hotel": 13,
+    "nazwa": "wieloosobowe",
+    "opis": "trzy- i więcej łóżkowe",
+    "typ_wezlu_higsan": "rozbudowany",
+    "dla_palaczy": true
+  },
+  {
+    "id_hotel": 13,
+    "nazwa": "rezydencjonalne",
+    "opis": "wieloizbowe, przystosowane do obsługi ruchu familijnego,",
+    "typ_wezlu_higsan": "rozbudowany",
+    "dla_palaczy": true
+  },
+  {
+    "id_hotel": 13,
+    "nazwa": "specjalne",
+    "opis": "dla biznesmenów (o zmiennej funkcji wyposażeniowej), osób niepełnosprawnych itd",
+    "typ_wezlu_higsan": "rozbudowany",
+    "dla_palaczy": true
+  },
+  {
+    "id_hotel": 14,
+    "nazwa": "podstawowe",
+    "opis": "dwułóżkowe",
+    "typ_wezlu_higsan": "pełny",
+    "dla_palaczy": false
+  },
+  {
+    "id_hotel": 14,
+    "nazwa": "studio",
+    "opis": "jednołóżkowe z dostawką",
+    "typ_wezlu_higsan": "pełny",
+    "dla_palaczy": false
+  },
+  {
+    "id_hotel": 14,
+    "nazwa": "apartamentowe",
+    "opis": "dwu- i więcej izbowe, posiadające indywidualne wykończenie i wyposażenie",
+    "typ_wezlu_higsan": "uproszczony",
+    "dla_palaczy": true
+  },
+  {
+    "id_hotel": 14,
+    "nazwa": "wieloosobowe",
+    "opis": "trzy- i więcej łóżkowe",
+    "typ_wezlu_higsan": "pełny",
+    "dla_palaczy": true
+  },
+  {
+    "id_hotel": 14,
+    "nazwa": "rezydencjonalne",
+    "opis": "wieloizbowe, przystosowane do obsługi ruchu familijnego,",
+    "typ_wezlu_higsan": "uproszczony",
+    "dla_palaczy": true
+  },
+  {
+    "id_hotel": 14,
+    "nazwa": "specjalne",
+    "opis": "dla biznesmenów (o zmiennej funkcji wyposażeniowej), osób niepełnosprawnych itd",
+    "typ_wezlu_higsan": "pełny",
+    "dla_palaczy": false
+  },
+  {
+    "id_hotel": 15,
+    "nazwa": "podstawowe",
+    "opis": "dwułóżkowe",
+    "typ_wezlu_higsan": "uproszczony",
+    "dla_palaczy": false
+  },
+  {
+    "id_hotel": 15,
+    "nazwa": "studio",
+    "opis": "jednołóżkowe z dostawką",
+    "typ_wezlu_higsan": "rozbudowany",
+    "dla_palaczy": false
+  },
+  {
+    "id_hotel": 15,
+    "nazwa": "apartamentowe",
+    "opis": "dwu- i więcej izbowe, posiadające indywidualne wykończenie i wyposażenie",
+    "typ_wezlu_higsan": "uproszczony",
+    "dla_palaczy": true
+  },
+  {
+    "id_hotel": 15,
+    "nazwa": "wieloosobowe",
+    "opis": "trzy- i więcej łóżkowe",
+    "typ_wezlu_higsan": "uproszczony",
+    "dla_palaczy": true
+  },
+  {
+    "id_hotel": 15,
+    "nazwa": "rezydencjonalne",
+    "opis": "wieloizbowe, przystosowane do obsługi ruchu familijnego,",
+    "typ_wezlu_higsan": "rozbudowany",
+    "dla_palaczy": true
+  },
+  {
+    "id_hotel": 15,
+    "nazwa": "specjalne",
+    "opis": "dla biznesmenów (o zmiennej funkcji wyposażeniowej), osób niepełnosprawnych itd",
+    "typ_wezlu_higsan": "uproszczony",
+    "dla_palaczy": true
+  },
+  {
+    "id_hotel": 16,
+    "nazwa": "podstawowe",
+    "opis": "dwułóżkowe",
+    "typ_wezlu_higsan": "uproszczony",
+    "dla_palaczy": true
+  },
+  {
+    "id_hotel": 16,
+    "nazwa": "studio",
+    "opis": "jednołóżkowe z dostawką",
+    "typ_wezlu_higsan": "pełny",
+    "dla_palaczy": true
+  },
+  {
+    "id_hotel": 16,
+    "nazwa": "apartamentowe",
+    "opis": "dwu- i więcej izbowe, posiadające indywidualne wykończenie i wyposażenie",
+    "typ_wezlu_higsan": "uproszczony",
+    "dla_palaczy": true
+  },
+  {
+    "id_hotel": 16,
+    "nazwa": "wieloosobowe",
+    "opis": "trzy- i więcej łóżkowe",
+    "typ_wezlu_higsan": "rozbudowany",
+    "dla_palaczy": false
+  },
+  {
+    "id_hotel": 16,
+    "nazwa": "rezydencjonalne",
+    "opis": "wieloizbowe, przystosowane do obsługi ruchu familijnego,",
+    "typ_wezlu_higsan": "uproszczony",
+    "dla_palaczy": false
+  },
+  {
+    "id_hotel": 16,
+    "nazwa": "specjalne",
+    "opis": "dla biznesmenów (o zmiennej funkcji wyposażeniowej), osób niepełnosprawnych itd",
+    "typ_wezlu_higsan": "uproszczony",
+    "dla_palaczy": true
+  },
+  {
+    "id_hotel": 17,
+    "nazwa": "podstawowe",
+    "opis": "dwułóżkowe",
+    "typ_wezlu_higsan": "uproszczony",
+    "dla_palaczy": true
+  },
+  {
+    "id_hotel": 17,
+    "nazwa": "studio",
+    "opis": "jednołóżkowe z dostawką",
+    "typ_wezlu_higsan": "rozbudowany",
+    "dla_palaczy": true
+  },
+  {
+    "id_hotel": 17,
+    "nazwa": "apartamentowe",
+    "opis": "dwu- i więcej izbowe, posiadające indywidualne wykończenie i wyposażenie",
+    "typ_wezlu_higsan": "uproszczony",
+    "dla_palaczy": true
+  },
+  {
+    "id_hotel": 17,
+    "nazwa": "wieloosobowe",
+    "opis": "trzy- i więcej łóżkowe",
+    "typ_wezlu_higsan": "rozbudowany",
+    "dla_palaczy": false
+  },
+  {
+    "id_hotel": 17,
+    "nazwa": "rezydencjonalne",
+    "opis": "wieloizbowe, przystosowane do obsługi ruchu familijnego,",
+    "typ_wezlu_higsan": "uproszczony",
+    "dla_palaczy": false
+  },
+  {
+    "id_hotel": 17,
+    "nazwa": "specjalne",
+    "opis": "dla biznesmenów (o zmiennej funkcji wyposażeniowej), osób niepełnosprawnych itd",
+    "typ_wezlu_higsan": "pełny",
+    "dla_palaczy": true
+  },
+  {
+    "id_hotel": 18,
+    "nazwa": "podstawowe",
+    "opis": "dwułóżkowe",
+    "typ_wezlu_higsan": "rozbudowany",
+    "dla_palaczy": false
+  },
+  {
+    "id_hotel": 18,
+    "nazwa": "studio",
+    "opis": "jednołóżkowe z dostawką",
+    "typ_wezlu_higsan": "pełny",
+    "dla_palaczy": true
+  },
+  {
+    "id_hotel": 18,
+    "nazwa": "apartamentowe",
+    "opis": "dwu- i więcej izbowe, posiadające indywidualne wykończenie i wyposażenie",
+    "typ_wezlu_higsan": "uproszczony",
+    "dla_palaczy": false
+  },
+  {
+    "id_hotel": 18,
+    "nazwa": "wieloosobowe",
+    "opis": "trzy- i więcej łóżkowe",
+    "typ_wezlu_higsan": "uproszczony",
+    "dla_palaczy": true
+  },
+  {
+    "id_hotel": 18,
+    "nazwa": "rezydencjonalne",
+    "opis": "wieloizbowe, przystosowane do obsługi ruchu familijnego,",
+    "typ_wezlu_higsan": "uproszczony",
+    "dla_palaczy": false
+  },
+  {
+    "id_hotel": 18,
+    "nazwa": "specjalne",
+    "opis": "dla biznesmenów (o zmiennej funkcji wyposażeniowej), osób niepełnosprawnych itd",
+    "typ_wezlu_higsan": "rozbudowany",
+    "dla_palaczy": true
+  },
+  {
+    "id_hotel": 19,
+    "nazwa": "podstawowe",
+    "opis": "dwułóżkowe",
+    "typ_wezlu_higsan": "rozbudowany",
+    "dla_palaczy": false
+  },
+  {
+    "id_hotel": 19,
+    "nazwa": "studio",
+    "opis": "jednołóżkowe z dostawką",
+    "typ_wezlu_higsan": "rozbudowany",
+    "dla_palaczy": false
+  },
+  {
+    "id_hotel": 19,
+    "nazwa": "apartamentowe",
+    "opis": "dwu- i więcej izbowe, posiadające indywidualne wykończenie i wyposażenie",
+    "typ_wezlu_higsan": "uproszczony",
+    "dla_palaczy": false
+  },
+  {
+    "id_hotel": 19,
+    "nazwa": "wieloosobowe",
+    "opis": "trzy- i więcej łóżkowe",
+    "typ_wezlu_higsan": "uproszczony",
+    "dla_palaczy": true
+  },
+  {
+    "id_hotel": 19,
+    "nazwa": "rezydencjonalne",
+    "opis": "wieloizbowe, przystosowane do obsługi ruchu familijnego,",
+    "typ_wezlu_higsan": "pełny",
+    "dla_palaczy": true
+  },
+  {
+    "id_hotel": 19,
+    "nazwa": "specjalne",
+    "opis": "dla biznesmenów (o zmiennej funkcji wyposażeniowej), osób niepełnosprawnych itd",
+    "typ_wezlu_higsan": "rozbudowany",
+    "dla_palaczy": true
+  }
+]

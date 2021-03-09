@@ -1,0 +1,5132 @@
+[
+  {
+    "id_typ": 1,
+    "id_wyposazenie": 1,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 1,
+    "id_wyposazenie": 12,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 1,
+    "id_wyposazenie": 9,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 1,
+    "id_wyposazenie": 32,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 1,
+    "id_wyposazenie": 10,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 1,
+    "id_wyposazenie": 33,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 1,
+    "id_wyposazenie": 15,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 1,
+    "id_wyposazenie": 11,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 1,
+    "id_wyposazenie": 18,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 2,
+    "id_wyposazenie": 1,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 2,
+    "id_wyposazenie": 21,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 2,
+    "id_wyposazenie": 15,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 2,
+    "id_wyposazenie": 7,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 2,
+    "id_wyposazenie": 5,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 2,
+    "id_wyposazenie": 30,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 2,
+    "id_wyposazenie": 23,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 2,
+    "id_wyposazenie": 16,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 2,
+    "id_wyposazenie": 32,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 3,
+    "id_wyposazenie": 2,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 3,
+    "id_wyposazenie": 22,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 3,
+    "id_wyposazenie": 24,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 3,
+    "id_wyposazenie": 3,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 3,
+    "id_wyposazenie": 15,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 3,
+    "id_wyposazenie": 13,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 3,
+    "id_wyposazenie": 35,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 3,
+    "id_wyposazenie": 21,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 3,
+    "id_wyposazenie": 18,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 4,
+    "id_wyposazenie": 1,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 4,
+    "id_wyposazenie": 36,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 4,
+    "id_wyposazenie": 25,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 4,
+    "id_wyposazenie": 9,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 4,
+    "id_wyposazenie": 5,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 4,
+    "id_wyposazenie": 18,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 4,
+    "id_wyposazenie": 4,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 4,
+    "id_wyposazenie": 6,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 4,
+    "id_wyposazenie": 19,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 5,
+    "id_wyposazenie": 1,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 5,
+    "id_wyposazenie": 28,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 5,
+    "id_wyposazenie": 3,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 5,
+    "id_wyposazenie": 5,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 5,
+    "id_wyposazenie": 19,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 5,
+    "id_wyposazenie": 34,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 5,
+    "id_wyposazenie": 11,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 5,
+    "id_wyposazenie": 6,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 5,
+    "id_wyposazenie": 30,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 6,
+    "id_wyposazenie": 1,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 6,
+    "id_wyposazenie": 10,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 6,
+    "id_wyposazenie": 19,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 6,
+    "id_wyposazenie": 8,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 6,
+    "id_wyposazenie": 26,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 6,
+    "id_wyposazenie": 21,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 6,
+    "id_wyposazenie": 28,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 6,
+    "id_wyposazenie": 24,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 6,
+    "id_wyposazenie": 31,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 7,
+    "id_wyposazenie": 2,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 7,
+    "id_wyposazenie": 35,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 7,
+    "id_wyposazenie": 12,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 7,
+    "id_wyposazenie": 10,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 7,
+    "id_wyposazenie": 8,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 7,
+    "id_wyposazenie": 19,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 7,
+    "id_wyposazenie": 31,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 7,
+    "id_wyposazenie": 34,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 7,
+    "id_wyposazenie": 6,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 8,
+    "id_wyposazenie": 1,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 8,
+    "id_wyposazenie": 36,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 8,
+    "id_wyposazenie": 12,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 8,
+    "id_wyposazenie": 35,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 8,
+    "id_wyposazenie": 7,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 8,
+    "id_wyposazenie": 22,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 8,
+    "id_wyposazenie": 11,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 8,
+    "id_wyposazenie": 23,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 8,
+    "id_wyposazenie": 16,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 9,
+    "id_wyposazenie": 2,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 9,
+    "id_wyposazenie": 35,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 9,
+    "id_wyposazenie": 31,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 9,
+    "id_wyposazenie": 29,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 9,
+    "id_wyposazenie": 36,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 9,
+    "id_wyposazenie": 20,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 9,
+    "id_wyposazenie": 12,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 9,
+    "id_wyposazenie": 15,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 9,
+    "id_wyposazenie": 26,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 10,
+    "id_wyposazenie": 2,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 10,
+    "id_wyposazenie": 24,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 10,
+    "id_wyposazenie": 33,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 10,
+    "id_wyposazenie": 27,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 10,
+    "id_wyposazenie": 7,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 10,
+    "id_wyposazenie": 21,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 10,
+    "id_wyposazenie": 8,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 10,
+    "id_wyposazenie": 15,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 10,
+    "id_wyposazenie": 11,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 11,
+    "id_wyposazenie": 1,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 11,
+    "id_wyposazenie": 17,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 11,
+    "id_wyposazenie": 20,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 11,
+    "id_wyposazenie": 4,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 11,
+    "id_wyposazenie": 25,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 11,
+    "id_wyposazenie": 36,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 11,
+    "id_wyposazenie": 32,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 11,
+    "id_wyposazenie": 35,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 11,
+    "id_wyposazenie": 31,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 12,
+    "id_wyposazenie": 1,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 12,
+    "id_wyposazenie": 36,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 12,
+    "id_wyposazenie": 35,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 12,
+    "id_wyposazenie": 33,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 12,
+    "id_wyposazenie": 8,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 12,
+    "id_wyposazenie": 29,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 12,
+    "id_wyposazenie": 3,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 12,
+    "id_wyposazenie": 19,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 12,
+    "id_wyposazenie": 11,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 13,
+    "id_wyposazenie": 1,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 13,
+    "id_wyposazenie": 35,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 13,
+    "id_wyposazenie": 25,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 13,
+    "id_wyposazenie": 7,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 13,
+    "id_wyposazenie": 34,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 13,
+    "id_wyposazenie": 3,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 13,
+    "id_wyposazenie": 28,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 13,
+    "id_wyposazenie": 4,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 13,
+    "id_wyposazenie": 27,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 14,
+    "id_wyposazenie": 1,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 14,
+    "id_wyposazenie": 30,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 14,
+    "id_wyposazenie": 36,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 14,
+    "id_wyposazenie": 11,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 14,
+    "id_wyposazenie": 14,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 14,
+    "id_wyposazenie": 35,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 14,
+    "id_wyposazenie": 25,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 14,
+    "id_wyposazenie": 8,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 14,
+    "id_wyposazenie": 17,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 15,
+    "id_wyposazenie": 1,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 15,
+    "id_wyposazenie": 27,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 15,
+    "id_wyposazenie": 4,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 15,
+    "id_wyposazenie": 10,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 15,
+    "id_wyposazenie": 11,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 15,
+    "id_wyposazenie": 30,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 15,
+    "id_wyposazenie": 7,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 15,
+    "id_wyposazenie": 31,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 15,
+    "id_wyposazenie": 36,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 16,
+    "id_wyposazenie": 2,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 16,
+    "id_wyposazenie": 17,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 16,
+    "id_wyposazenie": 12,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 16,
+    "id_wyposazenie": 35,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 16,
+    "id_wyposazenie": 21,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 16,
+    "id_wyposazenie": 4,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 16,
+    "id_wyposazenie": 25,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 16,
+    "id_wyposazenie": 33,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 16,
+    "id_wyposazenie": 16,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 17,
+    "id_wyposazenie": 2,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 17,
+    "id_wyposazenie": 35,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 17,
+    "id_wyposazenie": 22,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 17,
+    "id_wyposazenie": 4,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 17,
+    "id_wyposazenie": 17,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 17,
+    "id_wyposazenie": 8,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 17,
+    "id_wyposazenie": 5,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 17,
+    "id_wyposazenie": 15,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 17,
+    "id_wyposazenie": 27,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 18,
+    "id_wyposazenie": 2,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 18,
+    "id_wyposazenie": 31,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 18,
+    "id_wyposazenie": 5,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 18,
+    "id_wyposazenie": 29,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 18,
+    "id_wyposazenie": 14,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 18,
+    "id_wyposazenie": 3,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 18,
+    "id_wyposazenie": 26,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 18,
+    "id_wyposazenie": 33,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 18,
+    "id_wyposazenie": 23,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 19,
+    "id_wyposazenie": 1,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 19,
+    "id_wyposazenie": 9,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 19,
+    "id_wyposazenie": 21,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 19,
+    "id_wyposazenie": 36,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 19,
+    "id_wyposazenie": 32,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 19,
+    "id_wyposazenie": 16,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 19,
+    "id_wyposazenie": 34,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 19,
+    "id_wyposazenie": 19,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 19,
+    "id_wyposazenie": 23,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 20,
+    "id_wyposazenie": 1,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 20,
+    "id_wyposazenie": 34,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 20,
+    "id_wyposazenie": 13,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 20,
+    "id_wyposazenie": 22,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 20,
+    "id_wyposazenie": 29,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 20,
+    "id_wyposazenie": 21,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 20,
+    "id_wyposazenie": 30,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 20,
+    "id_wyposazenie": 16,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 20,
+    "id_wyposazenie": 19,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 21,
+    "id_wyposazenie": 1,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 21,
+    "id_wyposazenie": 7,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 21,
+    "id_wyposazenie": 29,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 21,
+    "id_wyposazenie": 19,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 21,
+    "id_wyposazenie": 25,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 21,
+    "id_wyposazenie": 23,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 21,
+    "id_wyposazenie": 17,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 21,
+    "id_wyposazenie": 33,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 21,
+    "id_wyposazenie": 20,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 22,
+    "id_wyposazenie": 1,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 22,
+    "id_wyposazenie": 4,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 22,
+    "id_wyposazenie": 19,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 22,
+    "id_wyposazenie": 10,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 22,
+    "id_wyposazenie": 8,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 22,
+    "id_wyposazenie": 5,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 22,
+    "id_wyposazenie": 18,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 22,
+    "id_wyposazenie": 17,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 22,
+    "id_wyposazenie": 11,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 23,
+    "id_wyposazenie": 2,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 23,
+    "id_wyposazenie": 12,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 23,
+    "id_wyposazenie": 20,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 23,
+    "id_wyposazenie": 29,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 23,
+    "id_wyposazenie": 22,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 23,
+    "id_wyposazenie": 15,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 23,
+    "id_wyposazenie": 17,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 23,
+    "id_wyposazenie": 33,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 23,
+    "id_wyposazenie": 14,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 24,
+    "id_wyposazenie": 2,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 24,
+    "id_wyposazenie": 4,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 24,
+    "id_wyposazenie": 31,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 24,
+    "id_wyposazenie": 25,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 24,
+    "id_wyposazenie": 20,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 24,
+    "id_wyposazenie": 29,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 24,
+    "id_wyposazenie": 32,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 24,
+    "id_wyposazenie": 26,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 24,
+    "id_wyposazenie": 15,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 25,
+    "id_wyposazenie": 2,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 25,
+    "id_wyposazenie": 18,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 25,
+    "id_wyposazenie": 11,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 25,
+    "id_wyposazenie": 12,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 25,
+    "id_wyposazenie": 14,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 25,
+    "id_wyposazenie": 7,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 25,
+    "id_wyposazenie": 23,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 25,
+    "id_wyposazenie": 8,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 25,
+    "id_wyposazenie": 3,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 26,
+    "id_wyposazenie": 2,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 26,
+    "id_wyposazenie": 32,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 26,
+    "id_wyposazenie": 26,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 26,
+    "id_wyposazenie": 10,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 26,
+    "id_wyposazenie": 12,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 26,
+    "id_wyposazenie": 20,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 26,
+    "id_wyposazenie": 16,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 26,
+    "id_wyposazenie": 15,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 26,
+    "id_wyposazenie": 17,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 27,
+    "id_wyposazenie": 1,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 27,
+    "id_wyposazenie": 10,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 27,
+    "id_wyposazenie": 3,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 27,
+    "id_wyposazenie": 26,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 27,
+    "id_wyposazenie": 35,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 27,
+    "id_wyposazenie": 22,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 27,
+    "id_wyposazenie": 13,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 27,
+    "id_wyposazenie": 4,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 27,
+    "id_wyposazenie": 14,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 28,
+    "id_wyposazenie": 1,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 28,
+    "id_wyposazenie": 34,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 28,
+    "id_wyposazenie": 15,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 28,
+    "id_wyposazenie": 21,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 28,
+    "id_wyposazenie": 10,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 28,
+    "id_wyposazenie": 36,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 28,
+    "id_wyposazenie": 8,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 28,
+    "id_wyposazenie": 17,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 28,
+    "id_wyposazenie": 27,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 29,
+    "id_wyposazenie": 1,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 29,
+    "id_wyposazenie": 26,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 29,
+    "id_wyposazenie": 21,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 29,
+    "id_wyposazenie": 17,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 29,
+    "id_wyposazenie": 22,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 29,
+    "id_wyposazenie": 31,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 29,
+    "id_wyposazenie": 12,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 29,
+    "id_wyposazenie": 13,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 29,
+    "id_wyposazenie": 36,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 30,
+    "id_wyposazenie": 1,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 30,
+    "id_wyposazenie": 7,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 30,
+    "id_wyposazenie": 14,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 30,
+    "id_wyposazenie": 5,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 30,
+    "id_wyposazenie": 26,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 30,
+    "id_wyposazenie": 16,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 30,
+    "id_wyposazenie": 25,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 30,
+    "id_wyposazenie": 18,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 30,
+    "id_wyposazenie": 36,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 31,
+    "id_wyposazenie": 2,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 31,
+    "id_wyposazenie": 23,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 31,
+    "id_wyposazenie": 21,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 31,
+    "id_wyposazenie": 33,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 31,
+    "id_wyposazenie": 6,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 31,
+    "id_wyposazenie": 17,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 31,
+    "id_wyposazenie": 32,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 31,
+    "id_wyposazenie": 34,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 31,
+    "id_wyposazenie": 12,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 32,
+    "id_wyposazenie": 1,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 32,
+    "id_wyposazenie": 27,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 32,
+    "id_wyposazenie": 28,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 32,
+    "id_wyposazenie": 18,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 32,
+    "id_wyposazenie": 10,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 32,
+    "id_wyposazenie": 23,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 32,
+    "id_wyposazenie": 6,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 32,
+    "id_wyposazenie": 24,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 32,
+    "id_wyposazenie": 19,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 33,
+    "id_wyposazenie": 2,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 33,
+    "id_wyposazenie": 26,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 33,
+    "id_wyposazenie": 11,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 33,
+    "id_wyposazenie": 28,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 33,
+    "id_wyposazenie": 31,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 33,
+    "id_wyposazenie": 5,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 33,
+    "id_wyposazenie": 3,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 33,
+    "id_wyposazenie": 35,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 33,
+    "id_wyposazenie": 23,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 34,
+    "id_wyposazenie": 2,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 34,
+    "id_wyposazenie": 15,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 34,
+    "id_wyposazenie": 12,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 34,
+    "id_wyposazenie": 25,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 34,
+    "id_wyposazenie": 8,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 34,
+    "id_wyposazenie": 24,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 34,
+    "id_wyposazenie": 13,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 34,
+    "id_wyposazenie": 31,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 34,
+    "id_wyposazenie": 16,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 35,
+    "id_wyposazenie": 1,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 35,
+    "id_wyposazenie": 27,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 35,
+    "id_wyposazenie": 5,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 35,
+    "id_wyposazenie": 19,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 35,
+    "id_wyposazenie": 7,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 35,
+    "id_wyposazenie": 11,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 35,
+    "id_wyposazenie": 4,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 35,
+    "id_wyposazenie": 18,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 35,
+    "id_wyposazenie": 22,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 36,
+    "id_wyposazenie": 2,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 36,
+    "id_wyposazenie": 6,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 36,
+    "id_wyposazenie": 10,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 36,
+    "id_wyposazenie": 33,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 36,
+    "id_wyposazenie": 23,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 36,
+    "id_wyposazenie": 18,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 36,
+    "id_wyposazenie": 19,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 36,
+    "id_wyposazenie": 27,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 36,
+    "id_wyposazenie": 24,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 37,
+    "id_wyposazenie": 2,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 37,
+    "id_wyposazenie": 20,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 37,
+    "id_wyposazenie": 13,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 37,
+    "id_wyposazenie": 22,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 37,
+    "id_wyposazenie": 27,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 37,
+    "id_wyposazenie": 29,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 37,
+    "id_wyposazenie": 25,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 37,
+    "id_wyposazenie": 14,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 37,
+    "id_wyposazenie": 26,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 38,
+    "id_wyposazenie": 1,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 38,
+    "id_wyposazenie": 9,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 38,
+    "id_wyposazenie": 22,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 38,
+    "id_wyposazenie": 8,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 38,
+    "id_wyposazenie": 30,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 38,
+    "id_wyposazenie": 19,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 38,
+    "id_wyposazenie": 4,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 38,
+    "id_wyposazenie": 14,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 38,
+    "id_wyposazenie": 26,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 39,
+    "id_wyposazenie": 2,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 39,
+    "id_wyposazenie": 21,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 39,
+    "id_wyposazenie": 33,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 39,
+    "id_wyposazenie": 31,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 39,
+    "id_wyposazenie": 20,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 39,
+    "id_wyposazenie": 13,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 39,
+    "id_wyposazenie": 34,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 39,
+    "id_wyposazenie": 26,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 39,
+    "id_wyposazenie": 17,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 40,
+    "id_wyposazenie": 1,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 40,
+    "id_wyposazenie": 15,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 40,
+    "id_wyposazenie": 10,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 40,
+    "id_wyposazenie": 4,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 40,
+    "id_wyposazenie": 17,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 40,
+    "id_wyposazenie": 20,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 40,
+    "id_wyposazenie": 13,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 40,
+    "id_wyposazenie": 32,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 40,
+    "id_wyposazenie": 23,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 41,
+    "id_wyposazenie": 2,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 41,
+    "id_wyposazenie": 16,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 41,
+    "id_wyposazenie": 22,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 41,
+    "id_wyposazenie": 33,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 41,
+    "id_wyposazenie": 17,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 41,
+    "id_wyposazenie": 25,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 41,
+    "id_wyposazenie": 20,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 41,
+    "id_wyposazenie": 12,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 41,
+    "id_wyposazenie": 15,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 42,
+    "id_wyposazenie": 2,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 42,
+    "id_wyposazenie": 19,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 42,
+    "id_wyposazenie": 31,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 42,
+    "id_wyposazenie": 27,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 42,
+    "id_wyposazenie": 7,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 42,
+    "id_wyposazenie": 23,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 42,
+    "id_wyposazenie": 15,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 42,
+    "id_wyposazenie": 33,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 42,
+    "id_wyposazenie": 8,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 43,
+    "id_wyposazenie": 1,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 43,
+    "id_wyposazenie": 31,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 43,
+    "id_wyposazenie": 17,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 43,
+    "id_wyposazenie": 13,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 43,
+    "id_wyposazenie": 4,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 43,
+    "id_wyposazenie": 34,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 43,
+    "id_wyposazenie": 7,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 43,
+    "id_wyposazenie": 27,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 43,
+    "id_wyposazenie": 6,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 44,
+    "id_wyposazenie": 1,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 44,
+    "id_wyposazenie": 19,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 44,
+    "id_wyposazenie": 13,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 44,
+    "id_wyposazenie": 14,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 44,
+    "id_wyposazenie": 11,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 44,
+    "id_wyposazenie": 33,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 44,
+    "id_wyposazenie": 30,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 44,
+    "id_wyposazenie": 34,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 44,
+    "id_wyposazenie": 26,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 45,
+    "id_wyposazenie": 2,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 45,
+    "id_wyposazenie": 3,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 45,
+    "id_wyposazenie": 23,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 45,
+    "id_wyposazenie": 12,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 45,
+    "id_wyposazenie": 35,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 45,
+    "id_wyposazenie": 11,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 45,
+    "id_wyposazenie": 14,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 45,
+    "id_wyposazenie": 24,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 45,
+    "id_wyposazenie": 15,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 46,
+    "id_wyposazenie": 2,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 46,
+    "id_wyposazenie": 36,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 46,
+    "id_wyposazenie": 28,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 46,
+    "id_wyposazenie": 8,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 46,
+    "id_wyposazenie": 14,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 46,
+    "id_wyposazenie": 29,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 46,
+    "id_wyposazenie": 27,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 46,
+    "id_wyposazenie": 24,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 46,
+    "id_wyposazenie": 32,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 47,
+    "id_wyposazenie": 2,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 47,
+    "id_wyposazenie": 22,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 47,
+    "id_wyposazenie": 33,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 47,
+    "id_wyposazenie": 17,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 47,
+    "id_wyposazenie": 28,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 47,
+    "id_wyposazenie": 19,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 47,
+    "id_wyposazenie": 6,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 47,
+    "id_wyposazenie": 14,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 47,
+    "id_wyposazenie": 4,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 48,
+    "id_wyposazenie": 2,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 48,
+    "id_wyposazenie": 22,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 48,
+    "id_wyposazenie": 34,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 48,
+    "id_wyposazenie": 27,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 48,
+    "id_wyposazenie": 18,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 48,
+    "id_wyposazenie": 12,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 48,
+    "id_wyposazenie": 35,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 48,
+    "id_wyposazenie": 36,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 48,
+    "id_wyposazenie": 31,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 49,
+    "id_wyposazenie": 1,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 49,
+    "id_wyposazenie": 31,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 49,
+    "id_wyposazenie": 21,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 49,
+    "id_wyposazenie": 30,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 49,
+    "id_wyposazenie": 17,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 49,
+    "id_wyposazenie": 36,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 49,
+    "id_wyposazenie": 7,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 49,
+    "id_wyposazenie": 5,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 49,
+    "id_wyposazenie": 20,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 50,
+    "id_wyposazenie": 2,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 50,
+    "id_wyposazenie": 10,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 50,
+    "id_wyposazenie": 6,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 50,
+    "id_wyposazenie": 8,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 50,
+    "id_wyposazenie": 15,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 50,
+    "id_wyposazenie": 25,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 50,
+    "id_wyposazenie": 30,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 50,
+    "id_wyposazenie": 11,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 50,
+    "id_wyposazenie": 33,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 51,
+    "id_wyposazenie": 2,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 51,
+    "id_wyposazenie": 11,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 51,
+    "id_wyposazenie": 10,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 51,
+    "id_wyposazenie": 28,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 51,
+    "id_wyposazenie": 9,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 51,
+    "id_wyposazenie": 25,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 51,
+    "id_wyposazenie": 21,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 51,
+    "id_wyposazenie": 26,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 51,
+    "id_wyposazenie": 3,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 52,
+    "id_wyposazenie": 1,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 52,
+    "id_wyposazenie": 23,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 52,
+    "id_wyposazenie": 11,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 52,
+    "id_wyposazenie": 13,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 52,
+    "id_wyposazenie": 28,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 52,
+    "id_wyposazenie": 12,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 52,
+    "id_wyposazenie": 30,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 52,
+    "id_wyposazenie": 3,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 52,
+    "id_wyposazenie": 4,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 53,
+    "id_wyposazenie": 1,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 53,
+    "id_wyposazenie": 17,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 53,
+    "id_wyposazenie": 35,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 53,
+    "id_wyposazenie": 36,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 53,
+    "id_wyposazenie": 28,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 53,
+    "id_wyposazenie": 32,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 53,
+    "id_wyposazenie": 20,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 53,
+    "id_wyposazenie": 15,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 53,
+    "id_wyposazenie": 5,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 54,
+    "id_wyposazenie": 2,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 54,
+    "id_wyposazenie": 30,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 54,
+    "id_wyposazenie": 15,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 54,
+    "id_wyposazenie": 8,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 54,
+    "id_wyposazenie": 11,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 54,
+    "id_wyposazenie": 18,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 54,
+    "id_wyposazenie": 7,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 54,
+    "id_wyposazenie": 29,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 54,
+    "id_wyposazenie": 3,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 55,
+    "id_wyposazenie": 1,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 55,
+    "id_wyposazenie": 13,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 55,
+    "id_wyposazenie": 34,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 55,
+    "id_wyposazenie": 23,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 55,
+    "id_wyposazenie": 26,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 55,
+    "id_wyposazenie": 20,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 55,
+    "id_wyposazenie": 16,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 55,
+    "id_wyposazenie": 12,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 55,
+    "id_wyposazenie": 6,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 56,
+    "id_wyposazenie": 2,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 56,
+    "id_wyposazenie": 14,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 56,
+    "id_wyposazenie": 26,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 56,
+    "id_wyposazenie": 27,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 56,
+    "id_wyposazenie": 10,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 56,
+    "id_wyposazenie": 29,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 56,
+    "id_wyposazenie": 24,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 56,
+    "id_wyposazenie": 13,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 56,
+    "id_wyposazenie": 21,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 57,
+    "id_wyposazenie": 2,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 57,
+    "id_wyposazenie": 24,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 57,
+    "id_wyposazenie": 25,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 57,
+    "id_wyposazenie": 36,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 57,
+    "id_wyposazenie": 3,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 57,
+    "id_wyposazenie": 5,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 57,
+    "id_wyposazenie": 4,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 57,
+    "id_wyposazenie": 21,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 57,
+    "id_wyposazenie": 17,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 58,
+    "id_wyposazenie": 1,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 58,
+    "id_wyposazenie": 24,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 58,
+    "id_wyposazenie": 3,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 58,
+    "id_wyposazenie": 23,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 58,
+    "id_wyposazenie": 31,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 58,
+    "id_wyposazenie": 19,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 58,
+    "id_wyposazenie": 17,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 58,
+    "id_wyposazenie": 14,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 58,
+    "id_wyposazenie": 20,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 59,
+    "id_wyposazenie": 2,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 59,
+    "id_wyposazenie": 27,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 59,
+    "id_wyposazenie": 33,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 59,
+    "id_wyposazenie": 21,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 59,
+    "id_wyposazenie": 22,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 59,
+    "id_wyposazenie": 4,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 59,
+    "id_wyposazenie": 19,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 59,
+    "id_wyposazenie": 15,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 59,
+    "id_wyposazenie": 29,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 60,
+    "id_wyposazenie": 1,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 60,
+    "id_wyposazenie": 15,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 60,
+    "id_wyposazenie": 7,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 60,
+    "id_wyposazenie": 13,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 60,
+    "id_wyposazenie": 30,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 60,
+    "id_wyposazenie": 27,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 60,
+    "id_wyposazenie": 23,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 60,
+    "id_wyposazenie": 5,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 60,
+    "id_wyposazenie": 8,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 61,
+    "id_wyposazenie": 1,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 61,
+    "id_wyposazenie": 23,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 61,
+    "id_wyposazenie": 33,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 61,
+    "id_wyposazenie": 28,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 61,
+    "id_wyposazenie": 10,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 61,
+    "id_wyposazenie": 11,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 61,
+    "id_wyposazenie": 13,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 61,
+    "id_wyposazenie": 27,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 61,
+    "id_wyposazenie": 14,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 62,
+    "id_wyposazenie": 2,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 62,
+    "id_wyposazenie": 24,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 62,
+    "id_wyposazenie": 6,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 62,
+    "id_wyposazenie": 23,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 62,
+    "id_wyposazenie": 30,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 62,
+    "id_wyposazenie": 33,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 62,
+    "id_wyposazenie": 35,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 62,
+    "id_wyposazenie": 26,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 62,
+    "id_wyposazenie": 17,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 63,
+    "id_wyposazenie": 1,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 63,
+    "id_wyposazenie": 30,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 63,
+    "id_wyposazenie": 24,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 63,
+    "id_wyposazenie": 9,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 63,
+    "id_wyposazenie": 18,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 63,
+    "id_wyposazenie": 13,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 63,
+    "id_wyposazenie": 5,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 63,
+    "id_wyposazenie": 26,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 63,
+    "id_wyposazenie": 20,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 64,
+    "id_wyposazenie": 2,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 64,
+    "id_wyposazenie": 8,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 64,
+    "id_wyposazenie": 34,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 64,
+    "id_wyposazenie": 5,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 64,
+    "id_wyposazenie": 4,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 64,
+    "id_wyposazenie": 31,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 64,
+    "id_wyposazenie": 36,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 64,
+    "id_wyposazenie": 15,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 64,
+    "id_wyposazenie": 29,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 65,
+    "id_wyposazenie": 1,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 65,
+    "id_wyposazenie": 28,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 65,
+    "id_wyposazenie": 30,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 65,
+    "id_wyposazenie": 3,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 65,
+    "id_wyposazenie": 25,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 65,
+    "id_wyposazenie": 22,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 65,
+    "id_wyposazenie": 27,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 65,
+    "id_wyposazenie": 34,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 65,
+    "id_wyposazenie": 6,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 66,
+    "id_wyposazenie": 1,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 66,
+    "id_wyposazenie": 31,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 66,
+    "id_wyposazenie": 18,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 66,
+    "id_wyposazenie": 23,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 66,
+    "id_wyposazenie": 33,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 66,
+    "id_wyposazenie": 13,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 66,
+    "id_wyposazenie": 34,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 66,
+    "id_wyposazenie": 7,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 66,
+    "id_wyposazenie": 16,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 67,
+    "id_wyposazenie": 1,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 67,
+    "id_wyposazenie": 18,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 67,
+    "id_wyposazenie": 30,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 67,
+    "id_wyposazenie": 15,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 67,
+    "id_wyposazenie": 12,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 67,
+    "id_wyposazenie": 14,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 67,
+    "id_wyposazenie": 3,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 67,
+    "id_wyposazenie": 11,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 67,
+    "id_wyposazenie": 22,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 68,
+    "id_wyposazenie": 1,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 68,
+    "id_wyposazenie": 5,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 68,
+    "id_wyposazenie": 17,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 68,
+    "id_wyposazenie": 22,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 68,
+    "id_wyposazenie": 16,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 68,
+    "id_wyposazenie": 19,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 68,
+    "id_wyposazenie": 12,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 68,
+    "id_wyposazenie": 13,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 68,
+    "id_wyposazenie": 31,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 69,
+    "id_wyposazenie": 2,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 69,
+    "id_wyposazenie": 32,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 69,
+    "id_wyposazenie": 26,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 69,
+    "id_wyposazenie": 10,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 69,
+    "id_wyposazenie": 25,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 69,
+    "id_wyposazenie": 6,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 69,
+    "id_wyposazenie": 19,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 69,
+    "id_wyposazenie": 15,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 69,
+    "id_wyposazenie": 14,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 70,
+    "id_wyposazenie": 2,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 70,
+    "id_wyposazenie": 21,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 70,
+    "id_wyposazenie": 20,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 70,
+    "id_wyposazenie": 17,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 70,
+    "id_wyposazenie": 15,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 70,
+    "id_wyposazenie": 26,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 70,
+    "id_wyposazenie": 33,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 70,
+    "id_wyposazenie": 28,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 70,
+    "id_wyposazenie": 31,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 71,
+    "id_wyposazenie": 2,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 71,
+    "id_wyposazenie": 14,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 71,
+    "id_wyposazenie": 31,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 71,
+    "id_wyposazenie": 10,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 71,
+    "id_wyposazenie": 8,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 71,
+    "id_wyposazenie": 3,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 71,
+    "id_wyposazenie": 24,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 71,
+    "id_wyposazenie": 27,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 71,
+    "id_wyposazenie": 19,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 72,
+    "id_wyposazenie": 2,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 72,
+    "id_wyposazenie": 31,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 72,
+    "id_wyposazenie": 35,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 72,
+    "id_wyposazenie": 30,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 72,
+    "id_wyposazenie": 11,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 72,
+    "id_wyposazenie": 23,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 72,
+    "id_wyposazenie": 36,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 72,
+    "id_wyposazenie": 4,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 72,
+    "id_wyposazenie": 13,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 73,
+    "id_wyposazenie": 2,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 73,
+    "id_wyposazenie": 12,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 73,
+    "id_wyposazenie": 16,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 73,
+    "id_wyposazenie": 4,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 73,
+    "id_wyposazenie": 24,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 73,
+    "id_wyposazenie": 5,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 73,
+    "id_wyposazenie": 35,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 73,
+    "id_wyposazenie": 36,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 73,
+    "id_wyposazenie": 18,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 74,
+    "id_wyposazenie": 2,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 74,
+    "id_wyposazenie": 34,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 74,
+    "id_wyposazenie": 23,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 74,
+    "id_wyposazenie": 29,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 74,
+    "id_wyposazenie": 35,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 74,
+    "id_wyposazenie": 12,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 74,
+    "id_wyposazenie": 30,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 74,
+    "id_wyposazenie": 36,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 74,
+    "id_wyposazenie": 24,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 75,
+    "id_wyposazenie": 2,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 75,
+    "id_wyposazenie": 5,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 75,
+    "id_wyposazenie": 26,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 75,
+    "id_wyposazenie": 28,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 75,
+    "id_wyposazenie": 11,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 75,
+    "id_wyposazenie": 4,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 75,
+    "id_wyposazenie": 6,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 75,
+    "id_wyposazenie": 36,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 75,
+    "id_wyposazenie": 10,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 76,
+    "id_wyposazenie": 2,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 76,
+    "id_wyposazenie": 33,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 76,
+    "id_wyposazenie": 3,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 76,
+    "id_wyposazenie": 5,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 76,
+    "id_wyposazenie": 14,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 76,
+    "id_wyposazenie": 32,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 76,
+    "id_wyposazenie": 24,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 76,
+    "id_wyposazenie": 16,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 76,
+    "id_wyposazenie": 4,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 77,
+    "id_wyposazenie": 2,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 77,
+    "id_wyposazenie": 31,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 77,
+    "id_wyposazenie": 5,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 77,
+    "id_wyposazenie": 24,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 77,
+    "id_wyposazenie": 7,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 77,
+    "id_wyposazenie": 21,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 77,
+    "id_wyposazenie": 23,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 77,
+    "id_wyposazenie": 30,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 77,
+    "id_wyposazenie": 29,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 78,
+    "id_wyposazenie": 1,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 78,
+    "id_wyposazenie": 8,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 78,
+    "id_wyposazenie": 26,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 78,
+    "id_wyposazenie": 34,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 78,
+    "id_wyposazenie": 22,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 78,
+    "id_wyposazenie": 32,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 78,
+    "id_wyposazenie": 18,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 78,
+    "id_wyposazenie": 24,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 78,
+    "id_wyposazenie": 21,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 79,
+    "id_wyposazenie": 2,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 79,
+    "id_wyposazenie": 27,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 79,
+    "id_wyposazenie": 9,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 79,
+    "id_wyposazenie": 4,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 79,
+    "id_wyposazenie": 34,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 79,
+    "id_wyposazenie": 20,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 79,
+    "id_wyposazenie": 11,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 79,
+    "id_wyposazenie": 25,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 79,
+    "id_wyposazenie": 12,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 80,
+    "id_wyposazenie": 2,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 80,
+    "id_wyposazenie": 20,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 80,
+    "id_wyposazenie": 26,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 80,
+    "id_wyposazenie": 4,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 80,
+    "id_wyposazenie": 35,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 80,
+    "id_wyposazenie": 36,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 80,
+    "id_wyposazenie": 16,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 80,
+    "id_wyposazenie": 19,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 80,
+    "id_wyposazenie": 8,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 81,
+    "id_wyposazenie": 2,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 81,
+    "id_wyposazenie": 21,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 81,
+    "id_wyposazenie": 32,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 81,
+    "id_wyposazenie": 11,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 81,
+    "id_wyposazenie": 24,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 81,
+    "id_wyposazenie": 22,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 81,
+    "id_wyposazenie": 8,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 81,
+    "id_wyposazenie": 17,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 81,
+    "id_wyposazenie": 28,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 82,
+    "id_wyposazenie": 2,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 82,
+    "id_wyposazenie": 29,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 82,
+    "id_wyposazenie": 26,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 82,
+    "id_wyposazenie": 17,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 82,
+    "id_wyposazenie": 24,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 82,
+    "id_wyposazenie": 35,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 82,
+    "id_wyposazenie": 9,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 82,
+    "id_wyposazenie": 23,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 82,
+    "id_wyposazenie": 18,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 83,
+    "id_wyposazenie": 2,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 83,
+    "id_wyposazenie": 23,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 83,
+    "id_wyposazenie": 11,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 83,
+    "id_wyposazenie": 35,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 83,
+    "id_wyposazenie": 13,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 83,
+    "id_wyposazenie": 24,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 83,
+    "id_wyposazenie": 36,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 83,
+    "id_wyposazenie": 27,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 83,
+    "id_wyposazenie": 32,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 84,
+    "id_wyposazenie": 1,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 84,
+    "id_wyposazenie": 13,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 84,
+    "id_wyposazenie": 25,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 84,
+    "id_wyposazenie": 15,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 84,
+    "id_wyposazenie": 14,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 84,
+    "id_wyposazenie": 31,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 84,
+    "id_wyposazenie": 21,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 84,
+    "id_wyposazenie": 17,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 84,
+    "id_wyposazenie": 24,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 85,
+    "id_wyposazenie": 1,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 85,
+    "id_wyposazenie": 34,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 85,
+    "id_wyposazenie": 24,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 85,
+    "id_wyposazenie": 11,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 85,
+    "id_wyposazenie": 33,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 85,
+    "id_wyposazenie": 21,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 85,
+    "id_wyposazenie": 14,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 85,
+    "id_wyposazenie": 23,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 85,
+    "id_wyposazenie": 29,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 86,
+    "id_wyposazenie": 1,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 86,
+    "id_wyposazenie": 33,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 86,
+    "id_wyposazenie": 15,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 86,
+    "id_wyposazenie": 30,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 86,
+    "id_wyposazenie": 36,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 86,
+    "id_wyposazenie": 8,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 86,
+    "id_wyposazenie": 31,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 86,
+    "id_wyposazenie": 12,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 86,
+    "id_wyposazenie": 32,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 87,
+    "id_wyposazenie": 1,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 87,
+    "id_wyposazenie": 3,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 87,
+    "id_wyposazenie": 31,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 87,
+    "id_wyposazenie": 6,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 87,
+    "id_wyposazenie": 25,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 87,
+    "id_wyposazenie": 19,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 87,
+    "id_wyposazenie": 33,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 87,
+    "id_wyposazenie": 24,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 87,
+    "id_wyposazenie": 21,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 88,
+    "id_wyposazenie": 1,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 88,
+    "id_wyposazenie": 33,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 88,
+    "id_wyposazenie": 31,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 88,
+    "id_wyposazenie": 26,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 88,
+    "id_wyposazenie": 34,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 88,
+    "id_wyposazenie": 25,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 88,
+    "id_wyposazenie": 15,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 88,
+    "id_wyposazenie": 27,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 88,
+    "id_wyposazenie": 12,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 89,
+    "id_wyposazenie": 2,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 89,
+    "id_wyposazenie": 5,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 89,
+    "id_wyposazenie": 29,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 89,
+    "id_wyposazenie": 21,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 89,
+    "id_wyposazenie": 28,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 89,
+    "id_wyposazenie": 10,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 89,
+    "id_wyposazenie": 17,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 89,
+    "id_wyposazenie": 13,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 89,
+    "id_wyposazenie": 26,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 90,
+    "id_wyposazenie": 2,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 90,
+    "id_wyposazenie": 25,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 90,
+    "id_wyposazenie": 35,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 90,
+    "id_wyposazenie": 18,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 90,
+    "id_wyposazenie": 22,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 90,
+    "id_wyposazenie": 20,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 90,
+    "id_wyposazenie": 32,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 90,
+    "id_wyposazenie": 28,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 90,
+    "id_wyposazenie": 27,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 91,
+    "id_wyposazenie": 1,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 91,
+    "id_wyposazenie": 25,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 91,
+    "id_wyposazenie": 36,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 91,
+    "id_wyposazenie": 23,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 91,
+    "id_wyposazenie": 3,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 91,
+    "id_wyposazenie": 27,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 91,
+    "id_wyposazenie": 11,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 91,
+    "id_wyposazenie": 5,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 91,
+    "id_wyposazenie": 26,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 92,
+    "id_wyposazenie": 1,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 92,
+    "id_wyposazenie": 27,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 92,
+    "id_wyposazenie": 15,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 92,
+    "id_wyposazenie": 9,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 92,
+    "id_wyposazenie": 8,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 92,
+    "id_wyposazenie": 23,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 92,
+    "id_wyposazenie": 19,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 92,
+    "id_wyposazenie": 32,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 92,
+    "id_wyposazenie": 17,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 93,
+    "id_wyposazenie": 1,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 93,
+    "id_wyposazenie": 24,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 93,
+    "id_wyposazenie": 33,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 93,
+    "id_wyposazenie": 19,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 93,
+    "id_wyposazenie": 34,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 93,
+    "id_wyposazenie": 20,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 93,
+    "id_wyposazenie": 4,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 93,
+    "id_wyposazenie": 15,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 93,
+    "id_wyposazenie": 29,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 94,
+    "id_wyposazenie": 2,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 94,
+    "id_wyposazenie": 21,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 94,
+    "id_wyposazenie": 33,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 94,
+    "id_wyposazenie": 34,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 94,
+    "id_wyposazenie": 24,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 94,
+    "id_wyposazenie": 22,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 94,
+    "id_wyposazenie": 19,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 94,
+    "id_wyposazenie": 23,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 94,
+    "id_wyposazenie": 25,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 95,
+    "id_wyposazenie": 2,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 95,
+    "id_wyposazenie": 14,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 95,
+    "id_wyposazenie": 17,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 95,
+    "id_wyposazenie": 28,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 95,
+    "id_wyposazenie": 32,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 95,
+    "id_wyposazenie": 26,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 95,
+    "id_wyposazenie": 15,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 95,
+    "id_wyposazenie": 18,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 95,
+    "id_wyposazenie": 19,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 96,
+    "id_wyposazenie": 2,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 96,
+    "id_wyposazenie": 20,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 96,
+    "id_wyposazenie": 10,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 96,
+    "id_wyposazenie": 7,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 96,
+    "id_wyposazenie": 25,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 96,
+    "id_wyposazenie": 24,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 96,
+    "id_wyposazenie": 8,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 96,
+    "id_wyposazenie": 30,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 96,
+    "id_wyposazenie": 29,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 97,
+    "id_wyposazenie": 2,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 97,
+    "id_wyposazenie": 29,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 97,
+    "id_wyposazenie": 3,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 97,
+    "id_wyposazenie": 22,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 97,
+    "id_wyposazenie": 19,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 97,
+    "id_wyposazenie": 12,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 97,
+    "id_wyposazenie": 7,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 97,
+    "id_wyposazenie": 13,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 97,
+    "id_wyposazenie": 26,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 98,
+    "id_wyposazenie": 1,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 98,
+    "id_wyposazenie": 22,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 98,
+    "id_wyposazenie": 35,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 98,
+    "id_wyposazenie": 13,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 98,
+    "id_wyposazenie": 15,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 98,
+    "id_wyposazenie": 7,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 98,
+    "id_wyposazenie": 14,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 98,
+    "id_wyposazenie": 3,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 98,
+    "id_wyposazenie": 29,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 99,
+    "id_wyposazenie": 2,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 99,
+    "id_wyposazenie": 24,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 99,
+    "id_wyposazenie": 7,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 99,
+    "id_wyposazenie": 20,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 99,
+    "id_wyposazenie": 32,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 99,
+    "id_wyposazenie": 31,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 99,
+    "id_wyposazenie": 14,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 99,
+    "id_wyposazenie": 19,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 99,
+    "id_wyposazenie": 35,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 100,
+    "id_wyposazenie": 1,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 100,
+    "id_wyposazenie": 19,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 100,
+    "id_wyposazenie": 11,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 100,
+    "id_wyposazenie": 30,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 100,
+    "id_wyposazenie": 26,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 100,
+    "id_wyposazenie": 17,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 100,
+    "id_wyposazenie": 4,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 100,
+    "id_wyposazenie": 24,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 100,
+    "id_wyposazenie": 10,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 101,
+    "id_wyposazenie": 2,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 101,
+    "id_wyposazenie": 23,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 101,
+    "id_wyposazenie": 10,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 101,
+    "id_wyposazenie": 30,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 101,
+    "id_wyposazenie": 24,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 101,
+    "id_wyposazenie": 3,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 101,
+    "id_wyposazenie": 17,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 101,
+    "id_wyposazenie": 8,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 101,
+    "id_wyposazenie": 27,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 102,
+    "id_wyposazenie": 1,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 102,
+    "id_wyposazenie": 26,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 102,
+    "id_wyposazenie": 12,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 102,
+    "id_wyposazenie": 23,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 102,
+    "id_wyposazenie": 14,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 102,
+    "id_wyposazenie": 11,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 102,
+    "id_wyposazenie": 20,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 102,
+    "id_wyposazenie": 7,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 102,
+    "id_wyposazenie": 32,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 103,
+    "id_wyposazenie": 2,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 103,
+    "id_wyposazenie": 12,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 103,
+    "id_wyposazenie": 4,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 103,
+    "id_wyposazenie": 14,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 103,
+    "id_wyposazenie": 29,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 103,
+    "id_wyposazenie": 36,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 103,
+    "id_wyposazenie": 30,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 103,
+    "id_wyposazenie": 26,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 103,
+    "id_wyposazenie": 20,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 104,
+    "id_wyposazenie": 2,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 104,
+    "id_wyposazenie": 24,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 104,
+    "id_wyposazenie": 12,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 104,
+    "id_wyposazenie": 14,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 104,
+    "id_wyposazenie": 25,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 104,
+    "id_wyposazenie": 6,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 104,
+    "id_wyposazenie": 18,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 104,
+    "id_wyposazenie": 11,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 104,
+    "id_wyposazenie": 13,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 105,
+    "id_wyposazenie": 1,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 105,
+    "id_wyposazenie": 23,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 105,
+    "id_wyposazenie": 27,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 105,
+    "id_wyposazenie": 31,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 105,
+    "id_wyposazenie": 26,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 105,
+    "id_wyposazenie": 7,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 105,
+    "id_wyposazenie": 32,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 105,
+    "id_wyposazenie": 5,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 105,
+    "id_wyposazenie": 20,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 106,
+    "id_wyposazenie": 2,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 106,
+    "id_wyposazenie": 22,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 106,
+    "id_wyposazenie": 6,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 106,
+    "id_wyposazenie": 8,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 106,
+    "id_wyposazenie": 10,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 106,
+    "id_wyposazenie": 12,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 106,
+    "id_wyposazenie": 11,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 106,
+    "id_wyposazenie": 19,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 106,
+    "id_wyposazenie": 34,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 107,
+    "id_wyposazenie": 2,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 107,
+    "id_wyposazenie": 30,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 107,
+    "id_wyposazenie": 9,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 107,
+    "id_wyposazenie": 11,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 107,
+    "id_wyposazenie": 34,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 107,
+    "id_wyposazenie": 6,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 107,
+    "id_wyposazenie": 18,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 107,
+    "id_wyposazenie": 12,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 107,
+    "id_wyposazenie": 33,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 108,
+    "id_wyposazenie": 1,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 108,
+    "id_wyposazenie": 5,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 108,
+    "id_wyposazenie": 7,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 108,
+    "id_wyposazenie": 27,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 108,
+    "id_wyposazenie": 25,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 108,
+    "id_wyposazenie": 19,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 108,
+    "id_wyposazenie": 28,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 108,
+    "id_wyposazenie": 8,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 108,
+    "id_wyposazenie": 36,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 109,
+    "id_wyposazenie": 2,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 109,
+    "id_wyposazenie": 28,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 109,
+    "id_wyposazenie": 35,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 109,
+    "id_wyposazenie": 30,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 109,
+    "id_wyposazenie": 18,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 109,
+    "id_wyposazenie": 3,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 109,
+    "id_wyposazenie": 27,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 109,
+    "id_wyposazenie": 16,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 109,
+    "id_wyposazenie": 20,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 110,
+    "id_wyposazenie": 1,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 110,
+    "id_wyposazenie": 31,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 110,
+    "id_wyposazenie": 28,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 110,
+    "id_wyposazenie": 8,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 110,
+    "id_wyposazenie": 12,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 110,
+    "id_wyposazenie": 5,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 110,
+    "id_wyposazenie": 22,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 110,
+    "id_wyposazenie": 16,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 110,
+    "id_wyposazenie": 35,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 111,
+    "id_wyposazenie": 2,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 111,
+    "id_wyposazenie": 10,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 111,
+    "id_wyposazenie": 8,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 111,
+    "id_wyposazenie": 28,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 111,
+    "id_wyposazenie": 29,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 111,
+    "id_wyposazenie": 18,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 111,
+    "id_wyposazenie": 14,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 111,
+    "id_wyposazenie": 16,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 111,
+    "id_wyposazenie": 12,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 112,
+    "id_wyposazenie": 1,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 112,
+    "id_wyposazenie": 31,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 112,
+    "id_wyposazenie": 35,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 112,
+    "id_wyposazenie": 27,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 112,
+    "id_wyposazenie": 11,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 112,
+    "id_wyposazenie": 32,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 112,
+    "id_wyposazenie": 17,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 112,
+    "id_wyposazenie": 8,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 112,
+    "id_wyposazenie": 20,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 113,
+    "id_wyposazenie": 1,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 113,
+    "id_wyposazenie": 36,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 113,
+    "id_wyposazenie": 8,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 113,
+    "id_wyposazenie": 12,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 113,
+    "id_wyposazenie": 18,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 113,
+    "id_wyposazenie": 22,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 113,
+    "id_wyposazenie": 30,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 113,
+    "id_wyposazenie": 24,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 113,
+    "id_wyposazenie": 6,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 114,
+    "id_wyposazenie": 2,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 114,
+    "id_wyposazenie": 31,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 114,
+    "id_wyposazenie": 17,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 114,
+    "id_wyposazenie": 29,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 114,
+    "id_wyposazenie": 3,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 114,
+    "id_wyposazenie": 18,
+    "ilosc": 2
+  },
+  {
+    "id_typ": 114,
+    "id_wyposazenie": 13,
+    "ilosc": 3
+  },
+  {
+    "id_typ": 114,
+    "id_wyposazenie": 24,
+    "ilosc": 1
+  },
+  {
+    "id_typ": 114,
+    "id_wyposazenie": 16,
+    "ilosc": 3
+  }
+]

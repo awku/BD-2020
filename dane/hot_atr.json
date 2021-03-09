@@ -1,0 +1,401 @@
+[
+  {
+    "id_hotel": 1,
+    "id_atrakcje": 5,
+    "otwarcie": "14:00:00",
+    "zamkniecie": "18:00:00",
+    "cena_godzina": 18
+  },
+  {
+    "id_hotel": 1,
+    "id_atrakcje": 2,
+    "otwarcie": "02:00:00",
+    "zamkniecie": "08:00:00",
+    "cena_godzina": 11
+  },
+  {
+    "id_hotel": 1,
+    "id_atrakcje": 3,
+    "otwarcie": "10:00:00",
+    "zamkniecie": "24:00:00",
+    "cena_godzina": 12
+  },
+  {
+    "id_hotel": 2,
+    "id_atrakcje": 7,
+    "otwarcie": "03:00:00",
+    "zamkniecie": "16:00:00",
+    "cena_godzina": 10
+  },
+  {
+    "id_hotel": 2,
+    "id_atrakcje": 4,
+    "otwarcie": "10:00:00",
+    "zamkniecie": "24:00:00",
+    "cena_godzina": 16
+  },
+  {
+    "id_hotel": 2,
+    "id_atrakcje": 3,
+    "otwarcie": "09:00:00",
+    "zamkniecie": "19:00:00",
+    "cena_godzina": 5
+  },
+  {
+    "id_hotel": 3,
+    "id_atrakcje": 2,
+    "otwarcie": "07:00:00",
+    "zamkniecie": "08:00:00",
+    "cena_godzina": 19
+  },
+  {
+    "id_hotel": 3,
+    "id_atrakcje": 7,
+    "otwarcie": "04:00:00",
+    "zamkniecie": "20:00:00",
+    "cena_godzina": 10
+  },
+  {
+    "id_hotel": 3,
+    "id_atrakcje": 5,
+    "otwarcie": "15:00:00",
+    "zamkniecie": "20:00:00",
+    "cena_godzina": 8
+  },
+  {
+    "id_hotel": 4,
+    "id_atrakcje": 7,
+    "otwarcie": "08:00:00",
+    "zamkniecie": "23:00:00",
+    "cena_godzina": 11
+  },
+  {
+    "id_hotel": 4,
+    "id_atrakcje": 1,
+    "otwarcie": "04:00:00",
+    "zamkniecie": "12:00:00",
+    "cena_godzina": 20
+  },
+  {
+    "id_hotel": 4,
+    "id_atrakcje": 6,
+    "otwarcie": "07:00:00",
+    "zamkniecie": "09:00:00",
+    "cena_godzina": 14
+  },
+  {
+    "id_hotel": 5,
+    "id_atrakcje": 1,
+    "otwarcie": "06:00:00",
+    "zamkniecie": "11:00:00",
+    "cena_godzina": 20
+  },
+  {
+    "id_hotel": 5,
+    "id_atrakcje": 4,
+    "otwarcie": "02:00:00",
+    "zamkniecie": "16:00:00",
+    "cena_godzina": 8
+  },
+  {
+    "id_hotel": 5,
+    "id_atrakcje": 6,
+    "otwarcie": "05:00:00",
+    "zamkniecie": "09:00:00",
+    "cena_godzina": 7
+  },
+  {
+    "id_hotel": 6,
+    "id_atrakcje": 2,
+    "otwarcie": "03:00:00",
+    "zamkniecie": "19:00:00",
+    "cena_godzina": 7
+  },
+  {
+    "id_hotel": 6,
+    "id_atrakcje": 6,
+    "otwarcie": "08:00:00",
+    "zamkniecie": "16:00:00",
+    "cena_godzina": 8
+  },
+  {
+    "id_hotel": 6,
+    "id_atrakcje": 4,
+    "otwarcie": "00:00:00",
+    "zamkniecie": "16:00:00",
+    "cena_godzina": 14
+  },
+  {
+    "id_hotel": 7,
+    "id_atrakcje": 1,
+    "otwarcie": "08:00:00",
+    "zamkniecie": "21:00:00",
+    "cena_godzina": 8
+  },
+  {
+    "id_hotel": 7,
+    "id_atrakcje": 4,
+    "otwarcie": "08:00:00",
+    "zamkniecie": "16:00:00",
+    "cena_godzina": 20
+  },
+  {
+    "id_hotel": 7,
+    "id_atrakcje": 7,
+    "otwarcie": "14:00:00",
+    "zamkniecie": "23:00:00",
+    "cena_godzina": 14
+  },
+  {
+    "id_hotel": 8,
+    "id_atrakcje": 3,
+    "otwarcie": "04:00:00",
+    "zamkniecie": "18:00:00",
+    "cena_godzina": 7
+  },
+  {
+    "id_hotel": 8,
+    "id_atrakcje": 1,
+    "otwarcie": "01:00:00",
+    "zamkniecie": "05:00:00",
+    "cena_godzina": 5
+  },
+  {
+    "id_hotel": 8,
+    "id_atrakcje": 4,
+    "otwarcie": "14:00:00",
+    "zamkniecie": "15:00:00",
+    "cena_godzina": 5
+  },
+  {
+    "id_hotel": 9,
+    "id_atrakcje": 3,
+    "otwarcie": "01:00:00",
+    "zamkniecie": "12:00:00",
+    "cena_godzina": 16
+  },
+  {
+    "id_hotel": 9,
+    "id_atrakcje": 2,
+    "otwarcie": "00:00:00",
+    "zamkniecie": "20:00:00",
+    "cena_godzina": 6
+  },
+  {
+    "id_hotel": 9,
+    "id_atrakcje": 6,
+    "otwarcie": "09:00:00",
+    "zamkniecie": "21:00:00",
+    "cena_godzina": 20
+  },
+  {
+    "id_hotel": 10,
+    "id_atrakcje": 1,
+    "otwarcie": "08:00:00",
+    "zamkniecie": "15:00:00",
+    "cena_godzina": 10
+  },
+  {
+    "id_hotel": 10,
+    "id_atrakcje": 7,
+    "otwarcie": "07:00:00",
+    "zamkniecie": "23:00:00",
+    "cena_godzina": 9
+  },
+  {
+    "id_hotel": 10,
+    "id_atrakcje": 5,
+    "otwarcie": "11:00:00",
+    "zamkniecie": "16:00:00",
+    "cena_godzina": 14
+  },
+  {
+    "id_hotel": 11,
+    "id_atrakcje": 2,
+    "otwarcie": "06:00:00",
+    "zamkniecie": "17:00:00",
+    "cena_godzina": 20
+  },
+  {
+    "id_hotel": 11,
+    "id_atrakcje": 4,
+    "otwarcie": "11:00:00",
+    "zamkniecie": "12:00:00",
+    "cena_godzina": 19
+  },
+  {
+    "id_hotel": 11,
+    "id_atrakcje": 6,
+    "otwarcie": "05:00:00",
+    "zamkniecie": "09:00:00",
+    "cena_godzina": 20
+  },
+  {
+    "id_hotel": 12,
+    "id_atrakcje": 4,
+    "otwarcie": "01:00:00",
+    "zamkniecie": "21:00:00",
+    "cena_godzina": 12
+  },
+  {
+    "id_hotel": 12,
+    "id_atrakcje": 7,
+    "otwarcie": "10:00:00",
+    "zamkniecie": "20:00:00",
+    "cena_godzina": 17
+  },
+  {
+    "id_hotel": 12,
+    "id_atrakcje": 5,
+    "otwarcie": "05:00:00",
+    "zamkniecie": "16:00:00",
+    "cena_godzina": 18
+  },
+  {
+    "id_hotel": 13,
+    "id_atrakcje": 4,
+    "otwarcie": "01:00:00",
+    "zamkniecie": "22:00:00",
+    "cena_godzina": 7
+  },
+  {
+    "id_hotel": 13,
+    "id_atrakcje": 2,
+    "otwarcie": "08:00:00",
+    "zamkniecie": "09:00:00",
+    "cena_godzina": 15
+  },
+  {
+    "id_hotel": 13,
+    "id_atrakcje": 7,
+    "otwarcie": "00:00:00",
+    "zamkniecie": "18:00:00",
+    "cena_godzina": 18
+  },
+  {
+    "id_hotel": 14,
+    "id_atrakcje": 6,
+    "otwarcie": "00:00:00",
+    "zamkniecie": "23:00:00",
+    "cena_godzina": 15
+  },
+  {
+    "id_hotel": 14,
+    "id_atrakcje": 2,
+    "otwarcie": "15:00:00",
+    "zamkniecie": "20:00:00",
+    "cena_godzina": 16
+  },
+  {
+    "id_hotel": 14,
+    "id_atrakcje": 4,
+    "otwarcie": "01:00:00",
+    "zamkniecie": "12:00:00",
+    "cena_godzina": 6
+  },
+  {
+    "id_hotel": 15,
+    "id_atrakcje": 4,
+    "otwarcie": "07:00:00",
+    "zamkniecie": "09:00:00",
+    "cena_godzina": 14
+  },
+  {
+    "id_hotel": 15,
+    "id_atrakcje": 6,
+    "otwarcie": "04:00:00",
+    "zamkniecie": "24:00:00",
+    "cena_godzina": 19
+  },
+  {
+    "id_hotel": 15,
+    "id_atrakcje": 2,
+    "otwarcie": "06:00:00",
+    "zamkniecie": "19:00:00",
+    "cena_godzina": 20
+  },
+  {
+    "id_hotel": 16,
+    "id_atrakcje": 2,
+    "otwarcie": "10:00:00",
+    "zamkniecie": "21:00:00",
+    "cena_godzina": 10
+  },
+  {
+    "id_hotel": 16,
+    "id_atrakcje": 7,
+    "otwarcie": "09:00:00",
+    "zamkniecie": "15:00:00",
+    "cena_godzina": 14
+  },
+  {
+    "id_hotel": 16,
+    "id_atrakcje": 1,
+    "otwarcie": "05:00:00",
+    "zamkniecie": "16:00:00",
+    "cena_godzina": 12
+  },
+  {
+    "id_hotel": 17,
+    "id_atrakcje": 4,
+    "otwarcie": "02:00:00",
+    "zamkniecie": "07:00:00",
+    "cena_godzina": 13
+  },
+  {
+    "id_hotel": 17,
+    "id_atrakcje": 2,
+    "otwarcie": "14:00:00",
+    "zamkniecie": "20:00:00",
+    "cena_godzina": 8
+  },
+  {
+    "id_hotel": 17,
+    "id_atrakcje": 3,
+    "otwarcie": "13:00:00",
+    "zamkniecie": "21:00:00",
+    "cena_godzina": 18
+  },
+  {
+    "id_hotel": 18,
+    "id_atrakcje": 7,
+    "otwarcie": "08:00:00",
+    "zamkniecie": "12:00:00",
+    "cena_godzina": 5
+  },
+  {
+    "id_hotel": 18,
+    "id_atrakcje": 2,
+    "otwarcie": "10:00:00",
+    "zamkniecie": "14:00:00",
+    "cena_godzina": 12
+  },
+  {
+    "id_hotel": 18,
+    "id_atrakcje": 6,
+    "otwarcie": "14:00:00",
+    "zamkniecie": "24:00:00",
+    "cena_godzina": 5
+  },
+  {
+    "id_hotel": 19,
+    "id_atrakcje": 4,
+    "otwarcie": "11:00:00",
+    "zamkniecie": "20:00:00",
+    "cena_godzina": 9
+  },
+  {
+    "id_hotel": 19,
+    "id_atrakcje": 6,
+    "otwarcie": "04:00:00",
+    "zamkniecie": "22:00:00",
+    "cena_godzina": 6
+  },
+  {
+    "id_hotel": 19,
+    "id_atrakcje": 2,
+    "otwarcie": "09:00:00",
+    "zamkniecie": "17:00:00",
+    "cena_godzina": 12
+  }
+]
